@@ -2,7 +2,8 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "scripts": {
-    "deploy": "gh-pages -d ./"
-  }
+ "scripts": {
+  "deploy": "gh-pages -d ./"
+}
+
 }
