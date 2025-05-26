@@ -1,0 +1,63 @@
+{
+  "product": {
+    "MTO": {
+      "images": [
+        "https://example.com/mto-image1.jpg",
+        "https://example.com/mto-image2.jpg",
+        "https://example.com/mto-image3.jpg",
+        "https://example.com/mto-image4.jpg",
+        "https://example.com/mto-image5.jpg"
+      ],
+      "title": "MTO (Mineral Turpentine Oil)",
+      "description": "Mumbai, the financial hub of India, is also a major industrial zone with sectors like paint, printing ink, chemicals, textiles, and engineering relying on MTO for thinning, cleaning, and degreasing.\nAs a trusted MTO Supplier in Mumbai, we deliver high-quality, low-odor, high-solvency Mineral Turpentine Oil in bulk tankers or drums—catering to both small businesses and large-scale industries with reliable and safe supply.",
+      "image": "https://example.com/mto-main-image.jpg",
+      "productname": "MTO",
+      "coa_images": [
+        "https://example.com/mto-coa-image.jpg"
+      ],
+      "coa_table": [
+        { "test": "Colour", "method": "ASTM D 1500", "unit": "-", "result": "Black" },
+        { "test": "Sulphur Content", "method": "ASTM D 4294", "unit": "%WT", "result": "1.2" },
+        { "test": "Flash Point", "method": "ASTM D 93", "unit": "°C", "result": "72" },
+        { "test": "Density at 15°C", "method": "ASTM D 1298", "unit": "Kg/l", "result": "0.91" }
+      ],
+      "usesdescription": "• Printing Ink Industries – for ink formulation and cleaning of the machinery\n• Chemical Processing Units – base solvent for intermediates and formulations\n• Surface Coating and Metal Fabrication – for degreasing, cleaning, and painting prep\n• Engineering Workshops – for mechanical cleaning, surface treatment, and parts prep",
+      "areanames": [
+        "Andheri MIDC",
+        "Taloja Industrial Estate",
+        "Bhiwandi Zone",
+        "Vasai-Virar Belt and New Coastal Industrial MTO zones",
+        "Mulund, Trombay, and Suburban Corridors",
+        "Lower Parel, South and Eastern Suburbs"
+      ],
+      "images_map": "https://example.com/mto-map-image.jpg"
+    },
+
+    "BaseOil": {
+      "images": [
+        "https://example.com/baseoil-image1.jpg",
+        "https://example.com/baseoil-image2.jpg",
+        "https://example.com/baseoil-image3.jpg",
+        "https://example.com/baseoil-image4.jpg",
+        "https://example.com/baseoil-image5.jpg"
+      ],
+      "title": "Base Oil",
+      "description": "Base oils are the essential components used in the formulation of lubricants and greases. They serve as the foundation for various industrial applications including automotive, manufacturing, and chemical processing. Our Base Oil is sourced from trusted refineries ensuring high purity, superior lubrication properties, and environmental compliance.",
+      "image": "https://example.com/baseoil-main-image.jpg",
+      "productname": "Base Oil",
+      "coa_images": [
+        "https://example.com/baseoil-coa-image.jpg"
+      ],
+      "usesdescription": "• Lubricant manufacturing for automotive and industrial applications\n• Chemical manufacturing and processing\n• Hydraulic fluids\n• Metalworking fluids\n• Marine and aviation lubricants",
+      "areanames": [
+        "Andheri MIDC",
+        "Taloja Industrial Estate",
+        "Bhiwandi Zone",
+        "Vasai-Virar Belt and New Coastal Industrial zones",
+        "Mulund, Trombay, and Suburban Corridors",
+        "Lower Parel, South and Eastern Suburbs"
+      ],
+      "images_map": "https://example.com/baseoil-map-image.jpg"
+    }
+  }
+}
