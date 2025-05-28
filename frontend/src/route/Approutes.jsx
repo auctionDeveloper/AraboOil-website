@@ -7,6 +7,7 @@ import Homepage from '../pages/Homepage';
 import AboutUs from '../pages/AboutUs';
 import ContactUs from '../pages/ContactUs';
 import Product from '../pages/Product';
+import CategoryPageLoader from '../component/CategoryPageLoader';
 
 function ProductPage() {
   const { category, productName } = useParams();
@@ -27,6 +28,8 @@ export default function AppRoutes() {
   return (
     <Routes>
       <Route path='/' element={<Homepage/>}/>
+        {/* Route for MTO and Base Oil category pages */}
+      <Route path="/product/:category" element={<CategoryPageLoader />} />
       <Route path="/" element={<Navigate to="/product/mto/thiner" replace />} />
       <Route path="/product/:category/:productName" element={<ProductPage />} />
       <Route path='/aboutus' element={<AboutUs/>}/>
