@@ -1,10 +1,17 @@
-import React from 'react'
-import Navbar from './component/Navbar'
+import React, { useState } from 'react';
+import MtoProductPage from './MtoProductPage';
+import data from './api/mto.json';
+import Navbar from './component/Navbar';
 
-export default function App() {
+function App() {
+  const [selectedProduct, setSelectedProduct] = useState("Thiner");
+
   return (
     <div>
-      <Navbar/>
+      <Navbar onSelect={setSelectedProduct} />
+      <MtoProductPage data={data.MTO[selectedProduct]} />
     </div>
-  )
+  );
 }
+
+export default App;

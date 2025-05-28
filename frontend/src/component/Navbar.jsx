@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 
-export default function Navbar() {
+export default function Navbar({ onSelect }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [productDropdownOpen, setProductDropdownOpen] = useState(false);
   const timeoutRef = useRef(null);
@@ -45,8 +45,18 @@ export default function Navbar() {
                     <div className="px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer">
                       MTO
                       <div className="absolute left-full top-0 hidden group-hover:flex flex-col bg-white shadow-md rounded-md py-2 w-40 z-50">
-                        <a href="/thinner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Thinner</a>
-                        <a href="/reducers" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Reducers</a>
+                         <a
+    onClick={() => onSelect("Thiner")}
+    className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer"
+  >
+    Thinner
+  </a>
+  <a
+    onClick={() => onSelect("Reducer")}
+    className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer"
+  >
+    Reducers
+  </a>
                       </div>
                     </div>
                   </div>
