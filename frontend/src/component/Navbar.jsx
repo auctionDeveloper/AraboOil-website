@@ -46,13 +46,17 @@ export default function Navbar({ onSelect }) {
                       MTO
                       <div className="absolute left-full top-0 hidden group-hover:flex flex-col bg-white shadow-md rounded-md py-2 w-40 z-50">
                          <a
-    onClick={() => onSelect("Thiner")}
+      onClick={() => {
+    onSelect("Thiner");
+    setProductDropdownOpen(false);
+  }}
+
     className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer"
   >
     Thinner
   </a>
   <a
-    onClick={() => onSelect("Reducer")}
+    onClick={() =>{ onSelect("Reducer"); setProductDropdownOpen(false);}}
     className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer"
   >
     Reducers
