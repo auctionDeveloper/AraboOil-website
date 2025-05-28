@@ -1,17 +1,13 @@
-import React, { useState } from 'react';
-import MtoProductPage from './MtoProductPage';
-import data from './api/mto.json';
+import React from 'react';
 import Navbar from './component/Navbar';
+import AppRoutes from './route/Approutes';
 
-function App() {
-  const [selectedProduct, setSelectedProduct] = useState("Thiner");
 
+export default function App() {
   return (
-    <div>
-      <Navbar onSelect={setSelectedProduct} />
-      <MtoProductPage data={data.MTO[selectedProduct]} />
-    </div>
+    <>
+      <Navbar />
+      <AppRoutes />
+    </>
   );
 }
-
-export default App;
