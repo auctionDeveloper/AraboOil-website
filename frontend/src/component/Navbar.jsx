@@ -63,7 +63,12 @@ export default function Navbar({ onSelect }) {
                           "Reducer",
                           "Mineral Turpentine Oil",
                           "Paint Thiner",
-                          "Industrial Turpentine Oil"
+                          "Industrial Turpentine Oil",
+                          "Industrial Thiner",
+                          "Industrial Solvent",
+                          "Industrial Composite Mixture",
+                          "MTO Petroleum Oil",
+                          "Mix aromatic Solvent"
                         ].map((product) => (
                          <Link
   key={product}

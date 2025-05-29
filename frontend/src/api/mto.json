@@ -1,6 +1,8 @@
 {
   "MTO": {
     "Thiner": {
+      "category": "mto",
+    "slug": "thiner",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -32,6 +34,7 @@
       "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png"
     },
     "Reducer": {
+      "slug": "reducer",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -60,6 +63,7 @@
     
     },
     "Mineral Turpentine Oil": {
+      "slug": "mineral-turpentine-oil",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -86,6 +90,7 @@
       "city": "Thane"
     },
     "Paint Thiner": {
+      "slug":"paint-thiner",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
@@ -112,6 +117,7 @@
       "city": "Palghar"
     },
     "Industrial Turpentine Oil": {
+      "slug": "industrial-turpentine-oil",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",

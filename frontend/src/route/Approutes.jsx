@@ -31,7 +31,8 @@ export default function AppRoutes() {
         {/* Route for MTO and Base Oil category pages */}
       <Route path="/product/:category" element={<CategoryPageLoader />} />
       <Route path="/" element={<Navigate to="/product/mto/thiner" replace />} />
-      <Route path="/product/:category/:productName" element={<ProductPage />} />
+     <Route path="/product/:category/:productName" element={<ProductPage />} />
+
       <Route path='/aboutus' element={<AboutUs/>}/>
       <Route path='/contactus' element={<ContactUs/>}/>
       <Route path='/product' element={<Product/>}/>
