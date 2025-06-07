@@ -1,0 +1,782 @@
+[
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Clear Lamp Oil",
+    "objective": "Importer",
+    "title": "Clear Lamp Oil",
+    "productname": "Clear Lamp Oil",
+    "slug": "lampoil-clear-lamp-oil-importer-mumbai",
+    "city": "Mumbai",
+    "description": "Clear Lamp Oil is imported to Mumbai to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Odorless Lamp Oil",
+    "objective": "Importer",
+    "title": "Odorless Lamp Oil",
+    "productname": "Odorless Lamp Oil",
+    "slug": "lampoil-odorless-lamp-oil-importer-navi-mumbai",
+    "city": "Navi Mumbai",
+    "description": "Odorless Lamp Oil is imported to Navi Mumbai to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Colored Lamp Oil",
+    "objective": "Importer",
+    "title": "Colored Lamp Oil",
+    "productname": "Colored Lamp Oil",
+    "slug": "lampoil-colored-lamp-oil-importer-thane",
+    "city": "Thane",
+    "description": "Colored Lamp Oil is imported to Thane to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Pooja Oil",
+    "objective": "Importer",
+    "title": "Pooja Oil",
+    "productname": "Pooja Oil",
+    "slug": "lampoil-pooja-oil-importer-palghar",
+    "city": "Palghar",
+    "description": "Pooja Oil is imported to Palghar to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Deep oil",
+    "objective": "Importer",
+    "title": "Deep oil",
+    "productname": "Deep oil",
+    "slug": "lampoil-deep-oil-importer-raigad",
+    "city": "Raigad",
+    "description": "Deep oil is imported to Raigad to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Til Oil",
+    "objective": "Importer",
+    "title": "Til Oil",
+    "productname": "Til Oil",
+    "slug": "lampoil-til-oil-importer-panvel",
+    "city": "Panvel",
+    "description": "Til Oil is imported to Panvel to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Indoor Lamp Oil",
+    "objective": "Importer",
+    "title": "Indoor Lamp Oil",
+    "productname": "Indoor Lamp Oil",
+    "slug": "lampoil-indoor-lamp-oil-importer-pune",
+    "city": "Pune",
+    "description": "Indoor Lamp Oil is imported to Pune to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Scented Lamp Oil",
+    "objective": "Importer",
+    "title": "Scented Lamp Oil",
+    "productname": "Scented Lamp Oil",
+    "slug": "lampoil-scented-lamp-oil-importer-nashik",
+    "city": "Nashik",
+    "description": "Scented Lamp Oil is imported to Nashik to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Long-Burning Lamp Oil",
+    "objective": "Importer",
+    "title": "Long-Burning Lamp Oil",
+    "productname": "Long-Burning Lamp Oil",
+    "slug": "lampoil-long-burning-lamp-oil-importer-aurangabad",
+    "city": "Aurangabad",
+    "description": "Long-Burning Lamp Oil is imported to Aurangabad to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Premium Grade Lamp Oil",
+    "objective": "Importer",
+    "title": "Premium Grade Lamp Oil",
+    "productname": "Premium Grade Lamp Oil",
+    "slug": "lampoil-premium-grade-lamp-oil-importer-kolhapur",
+    "city": "Kolhapur",
+    "description": "Premium Grade Lamp Oil is imported to Kolhapur to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327044/Kolhapur_br2eng.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Clear Lamp Oil",
+    "objective": "Importer",
+    "title": "Clear Lamp Oil",
+    "productname": "Clear Lamp Oil",
+    "slug": "lampoil-clear-lamp-oil-importer-goa",
+    "city": "Goa",
+    "description": "Clear Lamp Oil is imported to Goa to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327063/Goa_htisx5.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Odorless Lamp Oil",
+    "objective": "Importer",
+    "title": "Odorless Lamp Oil",
+    "productname": "Odorless Lamp Oil",
+    "slug": "lampoil-odorless-lamp-oil-importer-hubli",
+    "city": "Hubli",
+    "description": "Odorless Lamp Oil is imported to Hubli to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327150/Hubli_gnxnai.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Colored Lamp Oil",
+    "objective": "Importer",
+    "title": "Colored Lamp Oil",
+    "productname": "Colored Lamp Oil",
+    "slug": "lampoil-colored-lamp-oil-importer-belgaum",
+    "city": "Belgaum",
+    "description": "Colored Lamp Oil is imported to Belgaum to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327172/Belgaum_vio3a1.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Pooja Oil",
+    "objective": "Importer",
+    "title": "Pooja Oil",
+    "productname": "Pooja Oil",
+    "slug": "lampoil-pooja-oil-importer-tumkur",
+    "city": "Tumkur",
+    "description": "Pooja Oil is imported to Tumkur to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327202/Tumkur_i5sxxu.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Deep oil",
+    "objective": "Importer",
+    "title": "Deep oil",
+    "productname": "Deep oil",
+    "slug": "lampoil-deep-oil-importer-bengaluru",
+    "city": "Bengaluru",
+    "description": "Deep oil is imported to Bengaluru to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327239/Bangluru_hpgpbs.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Til Oil",
+    "objective": "Importer",
+    "title": "Til Oil",
+    "productname": "Til Oil",
+    "slug": "lampoil-til-oil-importer-silvassa",
+    "city": "Silvassa",
+    "description": "Til Oil is imported to Silvassa to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327270/Silvassa_mr9qj1.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Indoor Lamp Oil",
+    "objective": "Importer",
+    "title": "Indoor Lamp Oil",
+    "productname": "Indoor Lamp Oil",
+    "slug": "lampoil-indoor-lamp-oil-importer-vapi",
+    "city": "Vapi",
+    "description": "Indoor Lamp Oil is imported to Vapi to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327302/Vapi_qse23h.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Scented Lamp Oil",
+    "objective": "Importer",
+    "title": "Scented Lamp Oil",
+    "productname": "Scented Lamp Oil",
+    "slug": "lampoil-scented-lamp-oil-importer-surat",
+    "city": "Surat",
+    "description": "Scented Lamp Oil is imported to Surat to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327325/Surat_ch1nvy.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Long-Burning Lamp Oil",
+    "objective": "Importer",
+    "title": "Long-Burning Lamp Oil",
+    "productname": "Long-Burning Lamp Oil",
+    "slug": "lampoil-long-burning-lamp-oil-importer-ahemdabad",
+    "city": "Ahemdabad",
+    "description": "Long-Burning Lamp Oil is imported to Ahemdabad to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327345/Ahemdabad_ztd0de.png"
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Premium Grade Lamp Oil",
+    "objective": "Importer",
+    "title": "Premium Grade Lamp Oil",
+    "productname": "Premium Grade Lamp Oil",
+    "slug": "lampoil-premium-grade-lamp-oil-importer-dhule",
+    "city": "Dhule",
+    "description": "Premium Grade Lamp Oil is imported to Dhule to meet commercial and ceremonial lighting needs. Our clients prefer this grade of lamp oil for its clean burn and extended illumination.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "usesdescription": [
+      "Used in traditional oil lamps for religious rituals.",
+      "Preferred for pooja and ceremonial purposes due to its clarity.",
+      "Clean burning oil used in homes and temples.",
+      "Long-lasting lamp oil ideal for indoor use.",
+      "Popular for its pleasant aroma and no smoke residue."
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327354/Dhule_d4vhux.png"
+  }
+]

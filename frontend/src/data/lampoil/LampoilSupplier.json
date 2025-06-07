@@ -1,0 +1,782 @@
+[
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Til Oil",
+    "objective": "Supplier",
+    "title": "Til Oil",
+    "productname": "Til Oil",
+    "slug": "lampoil-til-oil-supplier-mumbai",
+    "city": "Mumbai",
+    "description": "Til Oil is a premium lamp oil product designed for reliable use in Mumbai. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Clear Lamp Oil",
+    "objective": "Supplier",
+    "title": "Clear Lamp Oil",
+    "productname": "Clear Lamp Oil",
+    "slug": "lampoil-clear-lamp-oil-supplier-navi-mumbai",
+    "city": "Navi Mumbai",
+    "description": "Clear Lamp Oil is a premium lamp oil product designed for reliable use in Navi Mumbai. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png",
+    "areanames": [
+      "Turbhe MIDC",
+      "TTC Industrial Area",
+      "Kopar Khairane Industrial Belt",
+      "Rabale MIDC",
+      "Airoli Industrial Cluster"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Indoor Lamp Oil",
+    "objective": "Supplier",
+    "title": "Indoor Lamp Oil",
+    "productname": "Indoor Lamp Oil",
+    "slug": "lampoil-indoor-lamp-oil-supplier-thane",
+    "city": "Thane",
+    "description": "Indoor Lamp Oil is a premium lamp oil product designed for reliable use in Thane. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png",
+    "areanames": [
+      "Wagle Industrial Estate",
+      "Kalwa Industrial Area",
+      "Kolshet Industrial Area",
+      "Majiwada Industrial Zone",
+      "Dombivli MIDC"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Clear Lamp Oil",
+    "objective": "Supplier",
+    "title": "Clear Lamp Oil",
+    "productname": "Clear Lamp Oil",
+    "slug": "lampoil-clear-lamp-oil-supplier-palghar",
+    "city": "Palghar",
+    "description": "Clear Lamp Oil is a premium lamp oil product designed for reliable use in Palghar. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png",
+    "areanames": [
+      "Boisar MIDC",
+      "Tarapur MIDC",
+      "Palghar East Industrial Cluster",
+      "Manor MIDC",
+      "Saphale Industrial Area"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Long-Burning Lamp Oil",
+    "objective": "Supplier",
+    "title": "Long-Burning Lamp Oil",
+    "productname": "Long-Burning Lamp Oil",
+    "slug": "lampoil-long-burning-lamp-oil-supplier-raigad",
+    "city": "Raigad",
+    "description": "Long-Burning Lamp Oil is a premium lamp oil product designed for reliable use in Raigad. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png",
+    "areanames": [
+      "Taloja MIDC",
+      "Patalganga MIDC",
+      "Mahad MIDC",
+      "Roha MIDC",
+      "Khopoli Industrial Belt"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Long-Burning Lamp Oil",
+    "objective": "Supplier",
+    "title": "Long-Burning Lamp Oil",
+    "productname": "Long-Burning Lamp Oil",
+    "slug": "lampoil-long-burning-lamp-oil-supplier-panvel",
+    "city": "Panvel",
+    "description": "Long-Burning Lamp Oil is a premium lamp oil product designed for reliable use in Panvel. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png",
+    "areanames": [
+      "New Panvel Industrial Node",
+      "Kalundre MIDC",
+      "Panvel Matheran Road Zone",
+      "Palaspe Phata Cluster",
+      "Panvel-Uran Industrial Corridor"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Odorless Lamp Oil",
+    "objective": "Supplier",
+    "title": "Odorless Lamp Oil",
+    "productname": "Odorless Lamp Oil",
+    "slug": "lampoil-odorless-lamp-oil-supplier-pune",
+    "city": "Pune",
+    "description": "Odorless Lamp Oil is a premium lamp oil product designed for reliable use in Pune. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png",
+    "areanames": [
+      "Chakan MIDC",
+      "Ranjangaon MIDC",
+      "Talegaon MIDC",
+      "Pimpri-Chinchwad MIDC",
+      "Bhosari Industrial Estate"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Pooja Oil",
+    "objective": "Supplier",
+    "title": "Pooja Oil",
+    "productname": "Pooja Oil",
+    "slug": "lampoil-pooja-oil-supplier-nashik",
+    "city": "Nashik",
+    "description": "Pooja Oil is a premium lamp oil product designed for reliable use in Nashik. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png",
+    "areanames": [
+      "Satpur MIDC",
+      "Ambad MIDC",
+      "Sinnar MIDC",
+      "Igatpuri Industrial Belt",
+      "Dindori Agro-Processing Zone"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Deep oil",
+    "objective": "Supplier",
+    "title": "Deep oil",
+    "productname": "Deep oil",
+    "slug": "lampoil-deep-oil-supplier-aurangabad",
+    "city": "Aurangabad",
+    "description": "Deep oil is a premium lamp oil product designed for reliable use in Aurangabad. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png",
+    "areanames": [
+      "Waluj MIDC",
+      "Shendra MIDC",
+      "Chikalthana MIDC",
+      "Paithan MIDC",
+      "MIDC CIDCO Industrial Area"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Premium Grade Lamp Oil",
+    "objective": "Supplier",
+    "title": "Premium Grade Lamp Oil",
+    "productname": "Premium Grade Lamp Oil",
+    "slug": "lampoil-premium-grade-lamp-oil-supplier-kolhapur",
+    "city": "Kolhapur",
+    "description": "Premium Grade Lamp Oil is a premium lamp oil product designed for reliable use in Kolhapur. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327044/Kolhapur_br2eng.png",
+    "areanames": [
+      "Shiroli MIDC",
+      "Gokul Shirgaon MIDC",
+      "Kagal-Hatkanangale MIDC",
+      "Jaysingpur Industrial Area",
+      "Uchgaon Industrial Belt"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Clear Lamp Oil",
+    "objective": "Supplier",
+    "title": "Clear Lamp Oil",
+    "productname": "Clear Lamp Oil",
+    "slug": "lampoil-clear-lamp-oil-supplier-goa",
+    "city": "Goa",
+    "description": "Clear Lamp Oil is a premium lamp oil product designed for reliable use in Goa. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327063/Goa_htisx5.png",
+    "areanames": [
+      "Verna Industrial Estate",
+      "Kundaim Industrial Estate",
+      "Ponda Industrial Estate",
+      "Corlim Industrial Area",
+      "Bicholim Industrial Estate"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Scented Lamp Oil",
+    "objective": "Supplier",
+    "title": "Scented Lamp Oil",
+    "productname": "Scented Lamp Oil",
+    "slug": "lampoil-scented-lamp-oil-supplier-hubli",
+    "city": "Hubli",
+    "description": "Scented Lamp Oil is a premium lamp oil product designed for reliable use in Hubli. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327150/Hubli_gnxnai.png",
+    "areanames": [
+      "Gokul Industrial Estate",
+      "Tarihal Industrial Area",
+      "Navanagar Industrial Cluster",
+      "Rayapur Gokul Road Estate",
+      "Hubli-Dharwad Industrial Area"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Odorless Lamp Oil",
+    "objective": "Supplier",
+    "title": "Odorless Lamp Oil",
+    "productname": "Odorless Lamp Oil",
+    "slug": "lampoil-odorless-lamp-oil-supplier-belgaum",
+    "city": "Belgaum",
+    "description": "Odorless Lamp Oil is a premium lamp oil product designed for reliable use in Belgaum. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327172/Belgaum_vio3a1.png",
+    "areanames": [
+      "Udyambag Industrial Estate",
+      "Macche Industrial Zone",
+      "Auto Nagar Belgaum",
+      "Honaga Industrial Estate",
+      "Kakti Industrial Area"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Odorless Lamp Oil",
+    "objective": "Supplier",
+    "title": "Odorless Lamp Oil",
+    "productname": "Odorless Lamp Oil",
+    "slug": "lampoil-odorless-lamp-oil-supplier-tumkur",
+    "city": "Tumkur",
+    "description": "Odorless Lamp Oil is a premium lamp oil product designed for reliable use in Tumkur. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327202/Tumkur_i5sxxu.png",
+    "areanames": [
+      "Vasanthanarasapura Industrial Area",
+      "Dobbaspet Industrial Estate",
+      "Tumkur-Kunigal Industrial Belt",
+      "Hirehalli Industrial Area",
+      "Sira Industrial Zone"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Til Oil",
+    "objective": "Supplier",
+    "title": "Til Oil",
+    "productname": "Til Oil",
+    "slug": "lampoil-til-oil-supplier-bengaluru",
+    "city": "Bengaluru",
+    "description": "Til Oil is a premium lamp oil product designed for reliable use in Bengaluru. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327239/Bangluru_hpgpbs.png",
+    "areanames": [
+      "Peenya Industrial Area",
+      "Bommasandra Industrial Area",
+      "Whitefield Industrial Zone",
+      "Jigani Industrial Estate",
+      "Electronic City Phase 1 & 2"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Long-Burning Lamp Oil",
+    "objective": "Supplier",
+    "title": "Long-Burning Lamp Oil",
+    "productname": "Long-Burning Lamp Oil",
+    "slug": "lampoil-long-burning-lamp-oil-supplier-silvassa",
+    "city": "Silvassa",
+    "description": "Long-Burning Lamp Oil is a premium lamp oil product designed for reliable use in Silvassa. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327270/Silvassa_mr9qj1.png",
+    "areanames": [
+      "Amli Industrial Estate",
+      "Kherdi Industrial Zone",
+      "Rakholi Industrial Area",
+      "Naroli Industrial Cluster",
+      "Piparia Industrial Estate"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Clear Lamp Oil",
+    "objective": "Supplier",
+    "title": "Clear Lamp Oil",
+    "productname": "Clear Lamp Oil",
+    "slug": "lampoil-clear-lamp-oil-supplier-vapi",
+    "city": "Vapi",
+    "description": "Clear Lamp Oil is a premium lamp oil product designed for reliable use in Vapi. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327302/Vapi_qse23h.png",
+    "areanames": [
+      "GIDC Vapi Industrial Estate",
+      "Gunjan Industrial Zone",
+      "Sarigam GIDC",
+      "Pardi Industrial Area",
+      "Koparli Road Industries"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Odorless Lamp Oil",
+    "objective": "Supplier",
+    "title": "Odorless Lamp Oil",
+    "productname": "Odorless Lamp Oil",
+    "slug": "lampoil-odorless-lamp-oil-supplier-surat",
+    "city": "Surat",
+    "description": "Odorless Lamp Oil is a premium lamp oil product designed for reliable use in Surat. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327325/Surat_ch1nvy.png",
+    "areanames": [
+      "Udhna Industrial Estate",
+      "Sachin GIDC",
+      "Pandesara GIDC",
+      "Hazira Industrial Belt",
+      "Bhestan Industrial Area"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Deep oil",
+    "objective": "Supplier",
+    "title": "Deep oil",
+    "productname": "Deep oil",
+    "slug": "lampoil-deep-oil-supplier-ahemdabad",
+    "city": "Ahemdabad",
+    "description": "Deep oil is a premium lamp oil product designed for reliable use in Ahemdabad. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327345/Ahemdabad_ztd0de.png",
+    "areanames": [
+      "Vatva GIDC",
+      "Naroda GIDC",
+      "Odhav Industrial Estate",
+      "Changodar Industrial Area",
+      "Bavla Industrial Zone"
+    ]
+  },
+  {
+    "category": "Lamp Oil",
+    "subproduct": "Deep oil",
+    "objective": "Supplier",
+    "title": "Deep oil",
+    "productname": "Deep oil",
+    "slug": "lampoil-deep-oil-supplier-dhule",
+    "city": "Dhule",
+    "description": "Deep oil is a premium lamp oil product designed for reliable use in Dhule. Ideal for religious, decorative, and emergency lighting purposes.",
+    "usesdescription": [
+      "Home decorative lighting",
+      "Temple and spiritual use",
+      "Long-burning emergency lighting",
+      "Indoor and outdoor lamp applications",
+      "Safe and smoke-free burning"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749275440/lampoil_gmz3qe.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.16_AM_ijlk7b.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327354/Dhule_d4vhux.png",
+    "areanames": [
+      "MIDC Dhule",
+      "Avdhan Industrial Zone",
+      "Chinchkhede Agrochemical Belt",
+      "Shirpur Textile & Chemical Area",
+      "Nardana Industrial Estate"
+    ]
+  }
+]

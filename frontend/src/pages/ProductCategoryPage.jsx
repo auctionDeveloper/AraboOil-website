@@ -58,6 +58,26 @@ import briquetteManufacturerData from '../data/briquette/BriquetteManufacture.js
 import briquetteImporterData from '../data/briquette/BriquetteImporter.json';
 import briquetteDistributerData from '../data/briquette/BriquetteDistributer.json';
 
+// ✅ Lamp Oil Data
+import lampSupplierData from '../data/lampoil/LampoilSupplier.json';
+import lampTraderData from '../data/lampoil/LampoilTrader.json';
+import lampManufacturerData from '../data/lampoil/LampoilManufacture.json';
+import lampImporterData from '../data/lampoil/LampoilImporter.json';
+import lampDistributerData from '../data/lampoil/LampoilDistributer.json';
+
+// ✅ CNSL Resin Data
+import cnslSupplierData from '../data/cnslresin/CnslSupplier.json';
+import cnslTraderData from '../data/cnslresin/CnslTrader.json';
+import cnslManufacturerData from '../data/cnslresin/CnslManufacture.json';
+import cnslImporterData from '../data/cnslresin/CnslImporter.json';
+import cnslDistributerData from '../data/cnslresin/CnslDistributer.json';
+
+// ✅ Hydrocarbon Data
+import hydroSupplierData from '../data/hydrocarbon/HydroCarbonSupplier.json';
+import hydroTraderData from '../data/hydrocarbon/HydroCarbonTrader.json';
+import hydroManufacturerData from '../data/hydrocarbon/HydroCarbonManufacture.json';
+import hydroImporterData from '../data/hydrocarbon/HydroCarbonImporter.json';
+import hydroDistributerData from '../data/hydrocarbon/HydrocarbonDistributer.json';
 
 
 // Utility
@@ -122,7 +142,28 @@ const objectiveMapByCategory = {
     Manufacturer: briquetteManufacturerData,
     Importer: briquetteImporterData,
     Distributor: briquetteDistributerData,
+  },  'lamp-oil': {
+    Supplier: lampSupplierData,
+    Trader: lampTraderData,
+    Manufacturer: lampManufacturerData,
+    Importer: lampImporterData,
+    Distributor: lampDistributerData,
   },
+  'cnsl-resin': {
+    Supplier: cnslSupplierData,
+    Trader: cnslTraderData,
+    Manufacturer: cnslManufacturerData,
+    Importer: cnslImporterData,
+    Distributor: cnslDistributerData,
+  },
+  hydrocarbon: {
+    Supplier: hydroSupplierData,
+    Trader: hydroTraderData,
+    Manufacturer: hydroManufacturerData,
+    Importer: hydroImporterData,
+    Distributor: hydroDistributerData,
+  },
+
 
 };
 
@@ -140,6 +181,10 @@ export default function ProductCategoryPage({ data, categorySlug }) {
     solvent: 'Solvent',
     biofuel: 'Biofuel',
       briquette: 'Briquette',
+        'lamp-oil': 'Lamp Oil',
+  'cnsl-resin': 'CNSL Resin',
+  hydrocarbon: 'Hydrocarbon',
+
 
   }[categorySlug] || '';
 

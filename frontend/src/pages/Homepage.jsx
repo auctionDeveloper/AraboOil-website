@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Homepage() {
   return (
-    <div>
-      
+    <div className='h-screen w-full'>
+      hh
     </div>
   )
 }

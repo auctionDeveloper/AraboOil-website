@@ -9,7 +9,6 @@ import manufacturerData from '../data/yellowbaseoil/YboManufacture.json';
 import importerData from '../data/yellowbaseoil/YboImporter.json';
 import distributerData from '../data/yellowbaseoil/YboDistributer.json';
 
-
 const objectiveMap = {
   supplier: supplierData,
   trader: traderData,
@@ -36,7 +35,7 @@ export default function YellowBaseOilObjectivesPage() {
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
       <Helmet>
-        <title>{data.title} {objective} in {data.city} | Arabo Oil</title>
+        <title>{data.title} {objective} in {data.city} | FuelOil.in</title>
         <meta name="description" content={metaDesc} />
         <meta name="keywords" content={`${data.productname}, ${data.city}, Yellow Base Oil ${objective}, Arabo Oil`} />
         <meta property="og:title" content={data.title} />
@@ -52,45 +51,39 @@ export default function YellowBaseOilObjectivesPage() {
         <link rel="canonical" href={seoURL} />
       </Helmet>
 
-      {/* Images */}
-     
-      {/* Render All Sections (Images, COA, Uses, Areas) */}
+      {/* Gallery */}
       <div className="grid grid-cols-3 md:grid-cols-6 gap-2 mb-8">
         {data.images.map((img, idx) => (
           <img key={idx} src={img} alt={`Image ${idx + 1}`} className="rounded-md object-cover h-32 w-full" />
         ))}
       </div>
 
-       <div className="text-center mb-8">
+      {/* Title + Subtitle */}
+      <div className="text-center mb-8">
         <h1 className="text-3xl font-bold text-[#0c2c53]">{data.title}</h1>
         <h2 className="text-xl text-red-700 font-semibold mt-1">({data.subtitle})</h2>
       </div>
 
-      {/* 🔍 Description + Main Image */}
+      {/* Description + Main Image */}
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-1/2 text-gray-700 leading-relaxed whitespace-pre-line">{data.description}</div>
         <div className="md:w-1/2 flex justify-center">
-          <img src={data.image1} alt="Main MTO" className="rounded-md shadow-md max-w-[300px]" />
+          <img src={data.image1} alt="Main Yellow Base Oil" className="rounded-md w-[250px] shadow-md object-contain" />
         </div>
       </div>
 
+      {/* COA */}
+      <div className="mb-12 text-center px-4 overflow-x-auto">
+        <h3 className="text-2xl font-semibold mb-4">Certificate of Analysis (COA)</h3>
+        <p className="text-sm mb-4">
+          PRODUCT NAME: <b>{data.productname}</b>
+        </p>
+        <div className="inline-block">
+          <img src={data.coa_images} alt="COA" className="rounded-lg max-w-full sm:max-w-lg max-h-[400px] mx-auto shadow-md" />
+        </div>
+      </div>
 
-      {/* COA Section */}
-     <div className="mb-12 text-center px-4 overflow-x-auto">
-  <h3 className="text-2xl font-semibold mb-4">Certificate of Analysis (COA)</h3>
-  <p className="text-sm mb-4">
-    PRODUCT NAME: <b>{data.productname}</b>
-  </p>
-  <div className="inline-block">
-    <img
-      src={data.coa_images}
-      alt="COA"
-      className="rounded-lg max-w-full sm:max-w-lg max-h-[400px] mx-auto shadow-md"
-    />
-  </div>
-</div>
-
-      {/* Uses Section */}
+      {/* Uses */}
       <div className="flex flex-col md:flex-row gap-6 mb-12">
         <div className="flex justify-center md:w-1/2">
           <img src={data.usesimages} alt="Uses" className="rounded-md w-[250px] shadow-md object-contain" />
@@ -105,7 +98,7 @@ export default function YellowBaseOilObjectivesPage() {
         </div>
       </div>
 
-      {/* Area + Map */}
+      {/* Area Names */}
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-1/2">
           <h3 className="text-2xl font-bold mb-4">Serving <span className="text-blue-600">{data.city}</span></h3>
@@ -120,10 +113,9 @@ export default function YellowBaseOilObjectivesPage() {
         </div>
       </div>
 
-      {/* Objective Links */}
+      {/* Objective-wise Links */}
       <div className="mt-12 border-t pt-6">
         <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Yellow Base Oil by Objective</h2>
-
         {Object.entries(objectiveMap).map(([objective, list]) => (
           <div key={objective} className="mb-8">
             <h3 className="text-lg font-semibold text-center mb-2 text-gray-800">

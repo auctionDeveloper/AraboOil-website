@@ -8,7 +8,7 @@ import wboTrader from '../data/whitebaseoil/WboTrader.json';
 import wboManufacturer from '../data/whitebaseoil/WboManufacture.json';
 import wboImporter from '../data/whitebaseoil/WboImporter.json';
 import wboDistributer from '../data/whitebaseoil/WboDistributer.json';
-
+import BaseOilLayout from '../BaseOilLayout';
 export default function WhiteBaseOilProductPage({ data }) {
   const metaDesc = data.description?.substring(0, 160);
   const seoURL = `https://fueloil.in/product/white-base-oil/${data.slug}`;

@@ -60,7 +60,7 @@ export default function Navbar({ onSelect }) {
                     const product = productData.product[productKey];
                     return (
                       <div key={productKey} className="group">
-                        <div className="px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer flex items-center justify-between">
+                        <div className="px-4 py-1 text-sm text-gray-700 hover:bg-gray-100 cursor-pointer flex items-center justify-between">
                           <Link
                             to={`/product/${toUrlSlug(productKey)}`}
                             onClick={() => setProductDropdownOpen(false)}
@@ -70,7 +70,8 @@ export default function Navbar({ onSelect }) {
                           <FaChevronDown className="text-xs ml-2" />
 
                           {/* Subproduct Dropdown */}
-                          <div className="absolute left-full top-0 hidden group-hover:flex flex-col bg-white shadow-md rounded-md py-2 w-60 z-50">
+                          <div onMouseEnter={handleMouseEnter}
+                  onMouseLeave={handleMouseLeave} className="absolute left-full top-5 hidden group-hover:flex flex-col bg-white shadow-md rounded-md py-2 w-60 z-50">
                             {product.subproducts.map((subprod) => (
                               <Link
                                 key={subprod.name}

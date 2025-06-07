@@ -2,12 +2,12 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import { useParams } from 'react-router-dom';
 
-// ✅ Import all Briquette objective data
-import supplierData from '../data/briquette/BriquetteSupplier.json';
-import traderData from '../data/briquette/BriquetteTrader.json';
-import manufacturerData from '../data/briquette/BriquetteManufacture.json';
-import importerData from '../data/briquette/BriquetteImporter.json';
-import distributerData from '../data/briquette/BriquetteDistributer.json';
+// ✅ Import Hydrocarbon objective data
+import supplierData from '../data/hydrocarbon/HydroCarbonSupplier.json';
+import traderData from '../data/hydrocarbon/HydroCarbonTrader.json';
+import manufacturerData from '../data/hydrocarbon/HydroCarbonManufacture.json';
+import importerData from '../data/hydrocarbon/HydroCarbonImporter.json';
+import distributerData from '../data/hydrocarbon/HydrocarbonDistributer.json';
 
 const objectiveMap = {
   supplier: supplierData,
@@ -17,7 +17,7 @@ const objectiveMap = {
   distributor: distributerData,
 };
 
-export default function BriquetteObjectivesPage() {
+export default function HydrocarbonObjectivesPage() {
   const { subproduct, objective, city } = useParams();
   const dataArray = objectiveMap[objective.toLowerCase()] || [];
 
@@ -29,30 +29,33 @@ export default function BriquetteObjectivesPage() {
 
   if (!data) return <div className="text-center py-10">Product Not Found</div>;
 
+  // Fallbacks
+  const image1 = data.image1 || data.images?.[0];
+  const usesimages = data.usesimages || data.images?.[1];
   const metaDesc = data.description?.substring(0, 160);
-  const seoURL = `https://fueloil.in/briquette/${subproduct}/${objective}/${city}`;
+  const seoURL = `https://fueloil.in/hydrocarbon/${subproduct}/${objective}/${city}`;
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
       <Helmet>
         <title>{data.title} {objective} in {data.city} | FuelOil.in</title>
         <meta name="description" content={metaDesc} />
-        <meta name="keywords" content={`${data.productname}, ${data.city}, Briquette ${objective}, FuelOil`} />
+        <meta name="keywords" content={`${data.productname}, ${data.city}, Hydrocarbon ${objective}, Arabo Oil`} />
         <meta property="og:title" content={data.title} />
         <meta property="og:description" content={metaDesc} />
-        <meta property="og:image" content={data.image1} />
+        <meta property="og:image" content={image1} />
         <meta property="og:url" content={seoURL} />
         <meta property="og:type" content="product" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={data.title} />
         <meta name="twitter:description" content={metaDesc} />
-        <meta name="twitter:image" content={data.image1} />
+        <meta name="twitter:image" content={image1} />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href={seoURL} />
       </Helmet>
 
-      {/* Image Gallery */}
-      <div className="grid grid-cols-3 md:grid-cols-6 gap-2 mb-8">
+      {/* Gallery */}
+      <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mb-8">
         {data.images.map((img, idx) => (
           <img key={idx} src={img} alt={`Image ${idx + 1}`} className="rounded-md object-cover h-32 w-full" />
         ))}
@@ -60,24 +63,32 @@ export default function BriquetteObjectivesPage() {
 
       <div className="text-center mb-8">
         <h1 className="text-3xl font-bold text-[#0c2c53]">{data.title}</h1>
-        <h2 className="text-xl text-red-700 font-semibold mt-1">({data.subtitle})</h2>
+        {data.subtitle && (
+          <h2 className="text-xl text-red-700 font-semibold mt-1">({data.subtitle})</h2>
+        )}
       </div>
 
       {/* Description + Main Image */}
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-1/2 text-gray-700 leading-relaxed whitespace-pre-line">{data.description}</div>
         <div className="md:w-1/2 flex justify-center">
-         <img src={data.image1} alt="Main MTO" className="rounded-md w-[250px] shadow-md object-contain" />
+          <img src={image1} alt="Main Hydrocarbon" className="rounded-md shadow-md max-w-[300px]" />
         </div>
       </div>
 
       {/* COA */}
-   
+      <div className="mb-12 text-center px-4 overflow-x-auto">
+        <h3 className="text-2xl font-semibold mb-4">Certificate of Analysis (COA)</h3>
+        <p className="text-sm mb-4">PRODUCT NAME: <b>{data.productname}</b></p>
+        <div className="inline-block">
+          <img src={data.coa_images} alt="COA" className="rounded-lg max-w-full sm:max-w-lg max-h-[400px] mx-auto shadow-md" />
+        </div>
+      </div>
 
-      {/* Uses Section */}
+      {/* Uses */}
       <div className="flex flex-col md:flex-row gap-6 mb-12">
         <div className="flex justify-center md:w-1/2">
-          <img src={data.usesimages} alt="Uses" className="rounded-md w-[250px] shadow-md object-contain" />
+          <img src={usesimages} alt="Uses" className="rounded-md w-[250px] shadow-md object-contain" />
         </div>
         <div className="md:w-1/2">
           <h3 className="text-2xl font-bold mb-4">Applications of <span className="text-red-600">{data.productname}</span></h3>
@@ -89,7 +100,7 @@ export default function BriquetteObjectivesPage() {
         </div>
       </div>
 
-      {/* Areas Section */}
+      {/* Area Names */}
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-1/2">
           <h3 className="text-2xl font-bold mb-4">Serving <span className="text-blue-600">{data.city}</span></h3>
@@ -104,10 +115,9 @@ export default function BriquetteObjectivesPage() {
         </div>
       </div>
 
-      {/* Objective Links */}
+      {/* Objective-wise Links */}
       <div className="mt-12 border-t pt-6">
-        <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Briquette by Objective</h2>
-
+        <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Hydrocarbon by Objective</h2>
         {Object.entries(objectiveMap).map(([objective, list]) => (
           <div key={objective} className="mb-8">
             <h3 className="text-lg font-semibold text-center mb-2 text-gray-800">
@@ -117,7 +127,7 @@ export default function BriquetteObjectivesPage() {
               {list.map((item) => (
                 <a
                   key={`${objective}-${item.city}-${item.subproduct}`}
-                  href={`/briquette/${item.subproduct.toLowerCase().replace(/\s+/g, '-')}/${objective.toLowerCase()}/${item.city.toLowerCase().replace(/\s+/g, '-')}`}
+                  href={`/hydrocarbon/${item.subproduct.toLowerCase().replace(/\s+/g, '-')}/${objective.toLowerCase()}/${item.city.toLowerCase().replace(/\s+/g, '-')}`}
                   className="hover:text-red-600 underline transition-colors"
                 >
                   {item.city} – {item.subproduct}

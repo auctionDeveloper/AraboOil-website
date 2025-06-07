@@ -68,7 +68,7 @@ export default function FuelOilObjectivesPage() {
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-1/2 text-gray-700 leading-relaxed whitespace-pre-line">{data.description}</div>
         <div className="md:w-1/2 flex justify-center">
-          <img src={data.image1} alt="Main Fuel Oil" className="rounded-md shadow-md max-w-[300px]" />
+       <img src={data.image1} alt="Main MTO" className="rounded-md w-[250px] shadow-md object-contain" />
         </div>
       </div>
 

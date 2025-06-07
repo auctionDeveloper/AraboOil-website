@@ -1,6 +1,7 @@
 // routes.jsx
 import React from 'react';
-import { Routes, Route, useParams } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import {  useParams} from 'react-router-dom';
 import Homepage from '../pages/Homepage';
 import AboutUs from '../pages/AboutUs';
 import ContactUs from '../pages/ContactUs';
@@ -41,6 +42,11 @@ import FuelOilObjectivesPage from '../pages/FuelOilObjectivesPage';
 import BiofuelObjectivesPage from '../pages/BiofuelObjectivesPage';
 import SolventObjectivesPage from '../pages/SolventObjectivesPage';
 import BriquetteObjectivesPage from '../pages/BriquetteObjectivesPage';
+import Navbar from '../component/Navbar';
+import Footer from '../component/Footer';
+import CnslResinObjectivesPage from '../pages/CNSLResinObjectivesPage';
+import HydrocarbonObjectivesPage from '../pages/HydrocarbonObjectivesPage';
+import LampOilObjectivesPage from '../pages/LampOilObjectives';
 
 function ProductPage() {
   const { category, productName } = useParams();
@@ -122,23 +128,33 @@ if (category === 'yellow-base-oil') {
 
 export default function AppRoutes() {
   return (
-    <Routes>
+<>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+        <Route path="/mto/:subproduct/:objective/:city" element={<MtoObjectivesPage />} />
+        <Route path="/white-base-oil/:subproduct/:objective/:city" element={<WhiteBaseOilObjectivesPage />} />
+        <Route path="/yellow-base-oil/:subproduct/:objective/:city" element={<YellowBaseOilObjectivesPage />} />
+        <Route path="/ldo/:subproduct/:objective/:city" element={<LdoObjectivesPage />} />
+        <Route path="/fuel-oil/:subproduct/:objective/:city" element={<FuelOilObjectivesPage />} />
+        <Route path="/biofuel/:subproduct/:objective/:city" element={<BiofuelObjectivesPage />} />
+        <Route path="/solvent/:subproduct/:objective/:city" element={<SolventObjectivesPage />} />
+        <Route path="/briquette/:subproduct/:objective/:city" element={<BriquetteObjectivesPage />} />
+        <Route path="/cnslresin/:subproduct/:objective/:city" element={<CnslResinObjectivesPage/>} />
+        <Route path="/cnsl-resin/:subproduct/:objective/:city" element={<CnslResinObjectivesPage/>} />
+         <Route path="/lamp-oil/:subproduct/:objective/:city" element={<LampOilObjectivesPage />} />
+          <Route path="/lampoil/:subproduct/:objective/:city" element={<LampOilObjectivesPage />} />
+         <Route path="/hydrocarbon/:subproduct/:objective/:city" element={<HydrocarbonObjectivesPage/>} />
 
 
-<Route path="/mto/:subproduct/:objective/:city" element={<MtoObjectivesPage />} />
-<Route path="/white-base-oil/:subproduct/:objective/:city" element={<WhiteBaseOilObjectivesPage />} />
-<Route path="/yellow-base-oil/:subproduct/:objective/:city" element={<YellowBaseOilObjectivesPage />} />
-<Route path="/ldo/:subproduct/:objective/:city" element={<LdoObjectivesPage/>} />
-<Route path="/fuel-oil/:subproduct/:objective/:city" element={<FuelOilObjectivesPage/>} />
-<Route path="/fueloil/:subproduct/:objective/:city" element={<FuelOilObjectivesPage/>} />
-<Route path="/biofuel/:subproduct/:objective/:city" element={<BiofuelObjectivesPage/>} />
-<Route path="/solvent/:subproduct/:objective/:city" element={<SolventObjectivesPage/>} />
-<Route path="/briquette/:subproduct/:objective/:city" element={<BriquetteObjectivesPage/>} />
-      <Route path='/product/:category' element={<CategoryPageLoader />} />
-      <Route path='/product/:category/:productName' element={<ProductPage />} />
-      <Route path='/aboutus' element={<AboutUs />} />
-      <Route path='/contactus' element={<ContactUs />} />
-      <Route path='/product' element={<Product />} />
-    </Routes>
+        <Route path="/product/:category" element={<CategoryPageLoader />} />
+        <Route path="/product/:category/:productName" element={<ProductPage />} />
+        <Route path="/aboutus" element={<AboutUs />} />
+        <Route path="/contactus" element={<ContactUs />} />
+        <Route path="/product" element={<Product />} />
+        {/* Optional: <Route path="*" element={<NotFound />} /> */}
+      </Routes>
+      <Footer />
+    </>
   );
 }
