@@ -1,11 +1,11 @@
 {
   "product": {
-    "MTO": {
+    "MTO": { 
       "title": "Mineral Turpentine Oil",
       "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
       "description": "Mineral Turpentine Oil is a versatile industrial solvent widely used in paints, coatings, adhesives, and cleaning applications. It provides excellent thinning properties and quick drying times, making it ideal for surface preparation and paint removal. Known for its purity and consistent quality, MTO is trusted by manufacturers and industries for various multipurpose uses.",
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "imagesofmtosubproct": "",
       "subproducts": [
         { "name": "Thiner", "image":   "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
         { "name": "Reducer", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp" },
@@ -197,16 +197,16 @@
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "subproducts": [
-        { "name": "Light Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Heavy Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Aromatic Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Mix Hdrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "10 PPM", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Industrial oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Processing oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Hydrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Industrial Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Solvent-Grade Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
+        { "name": "Light Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331278/1_fqojqj.jpg" },
+        { "name": "Heavy Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331279/images_1_sxie2y.jpg" },
+        { "name": "Aromatic Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331279/d-7_eg5lc7.jpg" },
+        { "name": "Mix Hdrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331312/images_3_gdkybk.jpg" },
+        { "name": "10 PPM", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331312/images_3_gdkybk.jpg" },
+        { "name": "Industrial oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331323/mineral-hydrocarbon-oil-mho_uj40cd.jpg" },
+        { "name": "Processing oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331335/product-jpeg-500x500_wypvyz.webp" },
+        { "name": "Hydrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331335/New-Project-24-min_ykpcxg.png" },
+        { "name": "Industrial Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331322/images_uoxdvd.jpg" },
+        { "name": "Solvent-Grade Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331329/mixed-hydro-carbon-oil-500x500_vriuis.webp" }
       ]
     }
   }

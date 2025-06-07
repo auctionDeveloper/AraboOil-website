@@ -188,9 +188,8 @@ export default function ProductCategoryPage({ data, categorySlug }) {
 
   }[categorySlug] || '';
   // ✅ Get all subproducts (unique)
-  const allSubproducts = [
-    ...new Set(Object.values(objectiveMap).flatMap(list => list.map(item => item.subproduct)))
-  ];
+const allSubproducts = data.subproducts || [];
+
   return (
     <>
       <Helmet>
@@ -215,40 +214,37 @@ export default function ProductCategoryPage({ data, categorySlug }) {
         )}
         
     {/* 🔍 Subproduct Cards Section */}
+{/* 🔍 Subproduct Cards Section */}
 {allSubproducts.length > 0 && (
   <div className="mb-12">
     <h2 className="text-2xl font-bold mb-4 text-center text-[#0c2c53]">
       Explore {readableCategory} Subproducts
     </h2>
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-      {allSubproducts.map((subproductName) => {
-        const entry = Object.values(objectiveMap)
-          .flat()
-          .find((item) => item.subproduct === subproductName && item.image1);
-
-        const defaultCity = entry?.city || 'mumbai';
+      {allSubproducts.map((sub) => {
         const defaultObjective = Object.keys(objectiveMap)[0]?.toLowerCase() || 'supplier';
-
-        const route = `/${categorySlug}/${toUrlSlug(subproductName)}/${defaultObjective}/${toUrlSlug(defaultCity)}`;
+        const defaultCity = 'mumbai';
+        const route = `/${categorySlug}/${toUrlSlug(sub.name)}/${defaultObjective}/${toUrlSlug(defaultCity)}`;
 
         return (
           <Link
             to={route}
-            key={subproductName}
+            key={sub.name}
             className="border rounded-xl p-4 shadow hover:shadow-lg hover:scale-[1.02] transition-all duration-200 text-center"
           >
             <img
-              src={entry?.image1 || '/placeholder.jpg'}
-              alt={subproductName}
+              src={sub.image || '/placeholder.jpg'}
+              alt={sub.name}
               className="w-full h-32 object-contain mb-3 rounded-md"
             />
-            <p className="uppercase font-semibold text-sm tracking-wide text-gray-800">{subproductName}</p>
+            <p className="uppercase font-semibold text-sm tracking-wide text-gray-800">{sub.name}</p>
           </Link>
         );
       })}
     </div>
   </div>
 )}
+
 
 
         {Object.keys(objectiveMap).length > 0 && (
