@@ -1,0 +1,304 @@
+{
+  "LDO": {
+    "Light Diesel Oil": {
+      "slug": "light-diesel-oil",
+      "title": "Light Diesel Oil",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Light Diesel Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Andheri MIDC",
+        "Taloja Industrial Estate",
+        "Mulund Industrial Belt",
+        "Vasai-Virar Industrial Zone",
+        "Wadala Oil Complex"
+      ],
+      "city": "Mumbai",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png",
+      "productname": "Light Diesel Oil"
+    },
+    "Light Fuel Oil": {
+      "slug": "light-fuel-oil",
+      "title": "Light Fuel Oil",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Light Fuel Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "TTC Industrial Area",
+        "Rabale MIDC",
+        "Kopar Khairane Industrial Zone",
+        "Airoli Industrial Cluster",
+        "Turbhe MIDC"
+      ],
+      "city": "Navi Mumbai",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png",
+      "productname": "Light Fuel Oil"
+    },
+    "Eco Blend LDO": {
+      "slug": "eco-blend-ldo",
+      "title": "Eco Blend LDO",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Eco Blend LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Wagle Estate",
+        "Kalwa Industrial Area",
+        "Kolshet Industrial Park",
+        "Majiwada Zone",
+        "Dombivli MIDC"
+      ],
+      "city": "Thane",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png",
+      "productname": "Eco Blend LDO"
+    },
+    "Low Sulphur LDO": {
+      "slug": "low-sulphur-ldo",
+      "title": "Low Sulphur LDO",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Low Sulphur LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Boisar MIDC",
+        "Tarapur MIDC",
+        "Manor Zone",
+        "Saphale Industrial Area",
+        "Palghar East Industrial Belt"
+      ],
+      "city": "Palghar",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png",
+      "productname": "Low Sulphur LDO"
+    },
+    "Marine Grade LDO": {
+      "slug": "marine-grade-ldo",
+      "title": "Marine Grade LDO",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Marine Grade LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Taloja MIDC",
+        "Patalganga MIDC",
+        "Mahad MIDC",
+        "Roha Industrial Belt",
+        "Khopoli Industrial Zone"
+      ],
+      "city": "Raigad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png",
+      "productname": "Marine Grade LDO"
+    },
+    "Industrial Grade LDO": {
+      "slug": "industrial-grade-ldo",
+      "title": "Industrial Grade LDO",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Industrial Grade LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "New Panvel Node",
+        "Kalundre MIDC",
+        "Palaspe Phata Zone",
+        "Panvel Matheran Road",
+        "Uran Industrial Corridor"
+      ],
+      "city": "Panvel",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png",
+      "productname": "Industrial Grade LDO"
+    },
+    "Low Viscocity Oil": {
+      "slug": "low-viscocity-oil",
+      "title": "Low Viscocity Oil",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Low Viscocity Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Chakan MIDC",
+        "Ranjangaon MIDC",
+        "Talegaon Industrial Belt",
+        "Pimpri-Chinchwad MIDC",
+        "Bhosari Industrial Estate"
+      ],
+      "city": "Pune",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png",
+      "productname": "Low Viscocity Oil"
+    },
+    "Light Density Oil": {
+      "slug": "light-density-oil",
+      "title": "Light Density Oil",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Light Density Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Satpur MIDC",
+        "Ambad MIDC",
+        "Sinnar MIDC",
+        "Igatpuri Belt",
+        "Dindori Agro Zone"
+      ],
+      "city": "Nashik",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png",
+      "productname": "Light Density Oil"
+    },
+    "Boiler LDO": {
+      "slug": "boiler-ldo",
+      "title": "Boiler LDO",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Boiler LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Waluj MIDC",
+        "Shendra MIDC",
+        "Chikalthana Industrial Estate",
+        "Paithan MIDC",
+        "MIDC CIDCO Zone"
+      ],
+      "city": "Aurangabad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png",
+      "productname": "Boiler LDO"
+    },
+    "Hotmix LDO": {
+      "slug": "hotmix-ldo",
+      "title": "Hotmix LDO",
+      "subtitle": "High-performance fuel for industrial and commercial heating applications",
+      "description": "Hotmix LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in boilers and furnaces",
+        "Powering hot mix plants",
+        "Marine engine operations",
+        "Thermal fluid heating",
+        "Backup fuel for DG sets"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Shiroli MIDC",
+        "Kagal-Hatkanangale MIDC",
+        "Jaysingpur Industrial Area",
+        "Gokul Shirgaon MIDC",
+        "Uchgaon Belt"
+      ],
+      "city": "Kolhapur",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327044/Kolhapur_br2eng.png",
+      "productname": "Hotmix LDO"
+    }
+  }
+}

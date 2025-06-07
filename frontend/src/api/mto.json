@@ -144,6 +144,7 @@
       "city": "Raigad"
     },
     "Industrial Thiner": {
+      "slug": "industrial-thiner",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -170,6 +171,7 @@
       "city": "Panvel"
     },
     "Industrial Solvent": {
+      "slug": "industrial-solvent",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -196,6 +198,7 @@
       "city": "Pune"
     },
     "Industrial Composite Mixture": {
+      "slug": "industrial-composite-mixture",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -222,6 +225,7 @@
       "city": "Nashik"
     },
     "MTO Petroleum Oil": {
+      "slug": "mto-petroleum-oil",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
@@ -249,6 +253,7 @@
       "city": "Aurangabad"
     },
     "Mix aromatic Solvent": {
+      "slug": "mix-aromatic-solvent",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",

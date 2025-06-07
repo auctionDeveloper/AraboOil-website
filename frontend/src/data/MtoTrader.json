@@ -1,0 +1,622 @@
+[
+  {
+    "slug": "mto-thiner-trader-mumbai",
+    "category": "MTO",
+    "subproduct": "Thiner",
+    "objective": "Trader",
+    "city": "Mumbai",
+    "title": "Thiner",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Thiner",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png"
+  },
+  {
+    "slug": "mto-reducer-trader-navi-mumbai",
+    "category": "MTO",
+    "subproduct": "Reducer",
+    "objective": "Trader",
+    "city": "Navi Mumbai",
+    "title": "Reducer",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Reducer",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Turbhe MIDC",
+      "TTC Industrial Area",
+      "Kopar Khairane Industrial Belt",
+      "Rabale MIDC",
+      "Airoli Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png"
+  },
+  {
+    "slug": "mto-mineral-turpentine-oil-trader-thane",
+    "category": "MTO",
+    "subproduct": "Mineral Turpentine Oil",
+    "objective": "Trader",
+    "city": "Thane",
+    "title": "Mineral Turpentine Oil",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Mineral Turpentine Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Wagle Industrial Estate",
+      "Kalwa Industrial Area",
+      "Kolshet Industrial Area",
+      "Majiwada Industrial Zone",
+      "Dombivli MIDC"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png"
+  },
+  {
+    "slug": "mto-paint-thiner-trader-palghar",
+    "category": "MTO",
+    "subproduct": "Paint Thiner",
+    "objective": "Trader",
+    "city": "Palghar",
+    "title": "Paint Thiner",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Paint Thiner",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Boisar MIDC",
+      "Tarapur MIDC",
+      "Palghar East Industrial Cluster",
+      "Manor MIDC",
+      "Saphale Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png"
+  },
+  {
+    "slug": "mto-industrial-turpentine-oil-trader-raigad",
+    "category": "MTO",
+    "subproduct": "Industrial Turpentine Oil",
+    "objective": "Trader",
+    "city": "Raigad",
+    "title": "Industrial Turpentine Oil",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Industrial Turpentine Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Taloja MIDC",
+      "Patalganga MIDC",
+      "Mahad MIDC",
+      "Roha MIDC",
+      "Khopoli Industrial Belt"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png"
+  },
+  {
+    "slug": "mto-industrial-thiner-trader-panvel",
+    "category": "MTO",
+    "subproduct": "Industrial Thiner",
+    "objective": "Trader",
+    "city": "Panvel",
+    "title": "Industrial Thiner",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Industrial Thiner",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "New Panvel Industrial Node",
+      "Kalundre MIDC",
+      "Panvel Matheran Road Zone",
+      "Palaspe Phata Cluster",
+      "Panvel-Uran Industrial Corridor"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png"
+  },
+  {
+    "slug": "mto-industrial-solvent-trader-pune",
+    "category": "MTO",
+    "subproduct": "Industrial Solvent",
+    "objective": "Trader",
+    "city": "Pune",
+    "title": "Industrial Solvent",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Industrial Solvent",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Chakan MIDC",
+      "Ranjangaon MIDC",
+      "Talegaon MIDC",
+      "Pimpri-Chinchwad MIDC",
+      "Bhosari Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png"
+  },
+  {
+    "slug": "mto-industrial-composite-mixture-trader-nashik",
+    "category": "MTO",
+    "subproduct": "Industrial Composite Mixture",
+    "objective": "Trader",
+    "city": "Nashik",
+    "title": "Industrial Composite Mixture",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Industrial Composite Mixture",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Satpur MIDC",
+      "Ambad MIDC",
+      "Sinnar MIDC",
+      "Igatpuri Industrial Belt",
+      "Dindori Agro-Processing Zone"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png"
+  },
+  {
+    "slug": "mto-mto-petroleum-oil-trader-aurangabad",
+    "category": "MTO",
+    "subproduct": "MTO Petroleum Oil",
+    "objective": "Trader",
+    "city": "Aurangabad",
+    "title": "MTO Petroleum Oil",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "MTO Petroleum Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Waluj MIDC",
+      "Shendra MIDC",
+      "Chikalthana MIDC",
+      "Paithan MIDC",
+      "MIDC CIDCO Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png"
+  },
+  {
+    "slug": "mto-mix-aromatic-solvent-trader-kolhapur",
+    "category": "MTO",
+    "subproduct": "Mix Aromatic Solvent",
+    "objective": "Trader",
+    "city": "Kolhapur",
+    "title": "Mix Aromatic Solvent",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "productname": "Mix Aromatic Solvent",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Shiroli MIDC",
+      "Gokul Shirgaon MIDC",
+      "Kagal-Hatkanangale MIDC",
+      "Jaysingpur Industrial Area",
+      "Uchgaon Industrial Belt"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327044/Kolhapur_br2eng.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Thiner",
+    "city": "Goa",
+    "title": "Thiner",
+    "productname": "Thiner",
+    "slug": "mto-thiner-trader-goa",
+    "areanames": [
+      "Verna Industrial Estate",
+      "Kundaim Industrial Estate",
+      "Ponda Industrial Estate",
+      "Corlim Industrial Area",
+      "Bicholim Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327063/Goa_htisx5.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Reducer",
+    "city": "Hubli",
+    "title": "Reducer",
+    "productname": "Reducer",
+    "slug": "mto-reducer-trader-hubli",
+    "areanames": [
+      "Gokul Industrial Estate",
+      "Tarihal Industrial Area",
+      "Navanagar Industrial Cluster",
+      "Rayapur Gokul Road Estate",
+      "Hubli-Dharwad Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327150/Hubli_gnxnai.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Mineral Turpentine Oil",
+    "city": "Belgaum",
+    "title": "Mineral Turpentine Oil",
+    "productname": "Mineral Turpentine Oil",
+    "slug": "mto-mineral-turpentine-oil-trader-belgaum",
+    "areanames": [
+      "Udyambag Industrial Estate",
+      "Macche Industrial Zone",
+      "Auto Nagar Belgaum",
+      "Honaga Industrial Estate",
+      "Kakti Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327172/Belgaum_vio3a1.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Paint Thiner",
+    "city": "Tumkur",
+    "title": "Paint Thiner",
+    "productname": "Paint Thiner",
+    "slug": "mto-paint-thiner-trader-tumkur",
+    "areanames": [
+      "Vasanthanarasapura Industrial Area",
+      "Dobbaspet Industrial Estate",
+      "Tumkur-Kunigal Industrial Belt",
+      "Hirehalli Industrial Area",
+      "Sira Industrial Zone"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327202/Tumkur_i5sxxu.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Industrial Turpentine Oil",
+    "city": "Bengaluru",
+    "title": "Industrial Turpentine Oil",
+    "productname": "Industrial Turpentine Oil",
+    "slug": "mto-industrial-turpentine-oil-trader-bengaluru",
+    "areanames": [
+      "Peenya Industrial Area",
+      "Bommasandra Industrial Area",
+      "Whitefield Industrial Zone",
+      "Jigani Industrial Estate",
+      "Electronic City Phase 1 & 2"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327239/Bangluru_hpgpbs.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Industrial Thiner",
+    "city": "Silvassa",
+    "title": "Industrial Thiner",
+    "productname": "Industrial Thiner",
+    "slug": "mto-industrial-thiner-trader-silvassa",
+    "areanames": [
+      "Amli Industrial Estate",
+      "Kherdi Industrial Zone",
+      "Rakholi Industrial Area",
+      "Naroli Industrial Cluster",
+      "Piparia Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327270/Silvassa_mr9qj1.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Industrial Solvent",
+    "city": "Vapi",
+    "title": "Industrial Solvent",
+    "productname": "Industrial Solvent",
+    "slug": "mto-industrial-solvent-trader-vapi",
+    "areanames": [
+      "GIDC Vapi Industrial Estate",
+      "Gunjan Industrial Zone",
+      "Sarigam GIDC",
+      "Pardi Industrial Area",
+      "Koparli Road Industries"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327302/Vapi_qse23h.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Industrial Composite Mixture",
+    "city": "Surat",
+    "title": "Industrial Composite Mixture",
+    "productname": "Industrial Composite Mixture",
+    "slug": "mto-industrial-composite-mixture-trader-surat",
+    "areanames": [
+      "Udhna Industrial Estate",
+      "Sachin GIDC",
+      "Pandesara GIDC",
+      "Hazira Industrial Belt",
+      "Bhestan Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327325/Surat_ch1nvy.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "MTO Petroleum Oil",
+    "city": "Ahmedabad",
+    "title": "MTO Petroleum Oil",
+    "productname": "MTO Petroleum Oil",
+    "slug": "mto-mto-petroleum-oil-trader-ahemdabad",
+    "areanames": [
+      "Vatva GIDC",
+      "Naroda GIDC",
+      "Odhav Industrial Estate",
+      "Changodar Industrial Area",
+      "Bavla Industrial Zone"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327345/Ahemdabad_ztd0de.png"
+  },
+  {
+    "category": "MTO",
+    "objective": "Trader",
+    "subtitle": "High-quality industrial base oil with multiple applications",
+    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+    ],
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "usesdescription": [
+      "Used in cosmetic industry",
+      "Formulation of lubricants",
+      "Pharmaceutical preparations"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "subproduct": "Mix Aromatic Solvent",
+    "city": "Dhule",
+    "title": "Mix Aromatic Solvent",
+    "productname": "Mix Aromatic Solvent",
+    "slug": "mto-mix-aromatic-solvent-trader-dhule",
+    "areanames": [
+      "MIDC Dhule",
+      "Avdhan Industrial Zone",
+      "Chinchkhede Agrochemical Belt",
+      "Shirpur Textile & Chemical Area",
+      "Nardana Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327354/Dhule_d4vhux.png"
+  }
+]

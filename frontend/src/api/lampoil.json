@@ -1,0 +1,294 @@
+{
+  "Lamp Oil": {
+    "Clear Lamp Oil": {
+      "slug": "clear-lamp-oil",
+      "title": "Clear Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Andheri MIDC",
+        "Marol Industrial Estate",
+        "Mahalaxmi Industrial Estate",
+        "Lower Parel Industrial Zone",
+        "Kurla Nehru Nagar Industrial Cluster"
+      ],
+      "city": "Mumbai",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png",
+      "productname": "Clear Lamp Oil"
+    },
+    "Odorless Lamp Oil": {
+      "slug": "odorless-lamp-oil",
+      "title": "Odorless Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Turbhe MIDC",
+        "TTC Industrial Area",
+        "Kopar Khairane Industrial Belt",
+        "Rabale MIDC",
+        "Airoli Industrial Cluster"
+      ],
+      "city": "Navi Mumbai",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png",
+      "productname": "Odorless Lamp Oil"
+    },
+    "Colored Lamp Oil": {
+      "slug": "colored-lamp-oil",
+      "title": "Colored Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Wagle Industrial Estate",
+        "Kalwa Industrial Area",
+        "Kolshet Industrial Area",
+        "Majiwada Industrial Zone",
+        "Dombivli MIDC"
+      ],
+      "city": "Thane",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png",
+      "productname": "Colored Lamp Oil"
+    },
+    "Pooja Oil": {
+      "slug": "pooja-oil",
+      "title": "Pooja Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Boisar MIDC",
+        "Tarapur MIDC",
+        "Palghar East Industrial Cluster",
+        "Manor MIDC",
+        "Saphale Industrial Area"
+      ],
+      "city": "Palghar",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png",
+      "productname": "Pooja Oil"
+    },
+    "Deep oil": {
+      "slug": "deep-oil",
+      "title": "Deep oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Taloja MIDC",
+        "Patalganga MIDC",
+        "Mahad MIDC",
+        "Roha MIDC",
+        "Khopoli Industrial Belt"
+      ],
+      "city": "Raigad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png",
+      "productname": "Deep oil"
+    },
+    "Til Oil": {
+      "slug": "til-oil",
+      "title": "Til Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "New Panvel Industrial Node",
+        "Kalundre MIDC",
+        "Panvel Matheran Road Zone",
+        "Palaspe Phata Cluster",
+        "Panvel-Uran Industrial Corridor"
+      ],
+      "city": "Panvel",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png",
+      "productname": "Til Oil"
+    },
+    "Indoor Lamp Oil": {
+      "slug": "indoor-lamp-oil",
+      "title": "Indoor Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Chakan MIDC",
+        "Ranjangaon MIDC",
+        "Talegaon MIDC",
+        "Pimpri-Chinchwad MIDC",
+        "Bhosari Industrial Estate"
+      ],
+      "city": "Pune",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png",
+      "productname": "Indoor Lamp Oil"
+    },
+    "Scented Lamp Oil": {
+      "slug": "scented-lamp-oil",
+      "title": "Scented Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Satpur MIDC",
+        "Ambad MIDC",
+        "Sinnar MIDC",
+        "Igatpuri Industrial Belt",
+        "Dindori Agro-Processing Zone"
+      ],
+      "city": "Nashik",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png",
+      "productname": "Scented Lamp Oil"
+    },
+    "Long-Burning Lamp Oil": {
+      "slug": "long-burning-lamp-oil",
+      "title": "Long-Burning Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Waluj MIDC",
+        "Shendra MIDC",
+        "Chikalthana MIDC",
+        "Paithan MIDC",
+        "MIDC CIDCO Industrial Area"
+      ],
+      "city": "Aurangabad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png",
+      "productname": "Long-Burning Lamp Oil"
+    },
+    "Premium Grade Lamp Oil": {
+      "slug": "premium-grade-lamp-oil",
+      "title": "Premium Grade Lamp Oil",
+      "subtitle": "Premium lamp oil for clean, long-lasting illumination",
+      "description": "Formulated for a bright flame and minimal smoke, our lamp oil ensures safe, consistent burning across indoor and outdoor applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Used in decorative lamps and lanterns",
+        "Ideal for pooja and ceremonial lighting",
+        "Safe for indoor use with low smoke",
+        "Great for camping and emergency kits",
+        "Long-burning formulation"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Shiroli MIDC",
+        "Gokul Shirgaon MIDC",
+        "Kagal-Hatkanangale MIDC",
+        "Jaysingpur Industrial Area",
+        "Uchgaon Industrial Belt"
+      ],
+      "city": "Kolhapur",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327044/Kolhapur_br2eng.png",
+      "productname": "Premium Grade Lamp Oil"
+    }
+  }
+}

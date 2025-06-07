@@ -1,0 +1,294 @@
+{
+  "Briquette": {
+    "Biomass Briquette": {
+      "slug": "biomass-briquette",
+      "title": "Biomass Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Biomass Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Verna Industrial Estate",
+        "Kundaim Industrial Estate",
+        "Ponda Industrial Estate",
+        "Corlim Industrial Area",
+        "Bicholim Industrial Estate"
+      ],
+      "city": "Goa",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327063/Goa_htisx5.png",
+      "productname": "Biomass Briquette"
+    },
+    "Sawdust Briquette": {
+      "slug": "sawdust-briquette",
+      "title": "Sawdust Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Sawdust Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Gokul Industrial Estate",
+        "Tarihal Industrial Area",
+        "Navanagar Industrial Cluster",
+        "Rayapur Gokul Road Estate",
+        "Hubli-Dharwad Industrial Area"
+      ],
+      "city": "Hubli",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327150/Hubli_gnxnai.png",
+      "productname": "Sawdust Briquette"
+    },
+    "Coconut Shell Briquette": {
+      "slug": "coconut-shell-briquette",
+      "title": "Coconut Shell Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Coconut Shell Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Udyambag Industrial Estate",
+        "Macche Industrial Zone",
+        "Auto Nagar Belgaum",
+        "Honaga Industrial Estate",
+        "Kakti Industrial Area"
+      ],
+      "city": "Belgaum",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327172/Belgaum_vio3a1.png",
+      "productname": "Coconut Shell Briquette"
+    },
+    "Agro Waste Briquette": {
+      "slug": "agro-waste-briquette",
+      "title": "Agro Waste Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Agro Waste Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Vasanthanarasapura Industrial Area",
+        "Dobbaspet Industrial Estate",
+        "Tumkur-Kunigal Industrial Belt",
+        "Hirehalli Industrial Area",
+        "Sira Industrial Zone"
+      ],
+      "city": "Tumkur",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327202/Tumkur_i5sxxu.png",
+      "productname": "Agro Waste Briquette"
+    },
+    "Charcoal Briquette": {
+      "slug": "charcoal-briquette",
+      "title": "Charcoal Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Charcoal Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Peenya Industrial Area",
+        "Bommasandra Industrial Area",
+        "Whitefield Industrial Zone",
+        "Jigani Industrial Estate",
+        "Electronic City Phase 1 & 2"
+      ],
+      "city": "Bengaluru",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327239/Bangluru_hpgpbs.png",
+      "productname": "Charcoal Briquette"
+    },
+    "Rice Husk Briquette": {
+      "slug": "rice-husk-briquette",
+      "title": "Rice Husk Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Rice Husk Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Amli Industrial Estate",
+        "Kherdi Industrial Zone",
+        "Rakholi Industrial Area",
+        "Naroli Industrial Cluster",
+        "Piparia Industrial Estate"
+      ],
+      "city": "Silvassa",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327270/Silvassa_mr9qj1.png",
+      "productname": "Rice Husk Briquette"
+    },
+    "Coffee Husk Briquette": {
+      "slug": "coffee-husk-briquette",
+      "title": "Coffee Husk Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Coffee Husk Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "GIDC Vapi Industrial Estate",
+        "Gunjan Industrial Zone",
+        "Sarigam GIDC",
+        "Pardi Industrial Area",
+        "Koparli Road Industries"
+      ],
+      "city": "Vapi",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327302/Vapi_qse23h.png",
+      "productname": "Coffee Husk Briquette"
+    },
+    "Peat Briquette": {
+      "slug": "peat-briquette",
+      "title": "Peat Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Peat Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Udhna Industrial Estate",
+        "Sachin GIDC",
+        "Pandesara GIDC",
+        "Hazira Industrial Belt",
+        "Bhestan Industrial Area"
+      ],
+      "city": "Surat",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327325/Surat_ch1nvy.png",
+      "productname": "Peat Briquette"
+    },
+    "High-Density Briquette": {
+      "slug": "high-density-briquette",
+      "title": "High-Density Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "High-Density Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Vatva GIDC",
+        "Naroda GIDC",
+        "Odhav Industrial Estate",
+        "Changodar Industrial Area",
+        "Bavla Industrial Zone"
+      ],
+      "city": "Ahemdabad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327345/Ahemdabad_ztd0de.png",
+      "productname": "High-Density Briquette"
+    },
+    "Low-Moisture Briquette": {
+      "slug": "low-moisture-briquette",
+      "title": "Low-Moisture Briquette",
+      "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
+      "description": "Low-Moisture Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Renewable fuel for industrial boilers",
+        "Used in gasifiers and power plants",
+        "Replacement for coal in rural kitchens",
+        "Ideal for agricultural dryers",
+        "Supports carbon reduction initiatives"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "MIDC Dhule",
+        "Avdhan Industrial Zone",
+        "Chinchkhede Agrochemical Belt",
+        "Shirpur Textile & Chemical Area",
+        "Nardana Industrial Estate"
+      ],
+      "city": "Dhule",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327354/Dhule_d4vhux.png",
+      "productname": "Low-Moisture Briquette"
+    }
+  }
+}

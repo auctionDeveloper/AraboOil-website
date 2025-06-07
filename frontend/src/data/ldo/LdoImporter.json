@@ -1,0 +1,782 @@
+[
+  {
+    "slug": "ldo-light-diesel-oil-importer-mumbai",
+    "category": "LDO",
+    "subproduct": "Light Diesel Oil",
+    "objective": "Importer",
+    "city": "Mumbai",
+    "title": "Light Diesel Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Light Diesel Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Light Diesel Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Andheri MIDC",
+      "Marol Industrial Estate",
+      "Mahalaxmi Industrial Estate",
+      "Lower Parel Industrial Zone",
+      "Kurla Nehru Nagar Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png"
+  },
+  {
+    "slug": "ldo-light-fuel-oil-importer-navi-mumbai",
+    "category": "LDO",
+    "subproduct": "Light Fuel Oil",
+    "objective": "Importer",
+    "city": "Navi Mumbai",
+    "title": "Light Fuel Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Light Fuel Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Light Fuel Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Turbhe MIDC",
+      "TTC Industrial Area",
+      "Kopar Khairane Industrial Belt",
+      "Rabale MIDC",
+      "Airoli Industrial Cluster"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png"
+  },
+  {
+    "slug": "ldo-eco-blend-ldo-importer-thane",
+    "category": "LDO",
+    "subproduct": "Eco Blend LDO",
+    "objective": "Importer",
+    "city": "Thane",
+    "title": "Eco Blend LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Eco Blend LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Eco Blend LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Wagle Industrial Estate",
+      "Kalwa Industrial Area",
+      "Kolshet Industrial Area",
+      "Majiwada Industrial Zone",
+      "Dombivli MIDC"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png"
+  },
+  {
+    "slug": "ldo-low-sulphur-ldo-importer-palghar",
+    "category": "LDO",
+    "subproduct": "Low Sulphur LDO",
+    "objective": "Importer",
+    "city": "Palghar",
+    "title": "Low Sulphur LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Low Sulphur LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Low Sulphur LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Boisar MIDC",
+      "Tarapur MIDC",
+      "Palghar East Industrial Cluster",
+      "Manor MIDC",
+      "Saphale Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png"
+  },
+  {
+    "slug": "ldo-marine-grade-ldo-importer-raigad",
+    "category": "LDO",
+    "subproduct": "Marine Grade LDO",
+    "objective": "Importer",
+    "city": "Raigad",
+    "title": "Marine Grade LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Marine Grade LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Marine Grade LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Taloja MIDC",
+      "Patalganga MIDC",
+      "Mahad MIDC",
+      "Roha MIDC",
+      "Khopoli Industrial Belt"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png"
+  },
+  {
+    "slug": "ldo-industrial-grade-ldo-importer-panvel",
+    "category": "LDO",
+    "subproduct": "Industrial Grade LDO",
+    "objective": "Importer",
+    "city": "Panvel",
+    "title": "Industrial Grade LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Industrial Grade LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Industrial Grade LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "New Panvel Industrial Node",
+      "Kalundre MIDC",
+      "Panvel Matheran Road Zone",
+      "Palaspe Phata Cluster",
+      "Panvel-Uran Industrial Corridor"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png"
+  },
+  {
+    "slug": "ldo-low-viscocity-oil-importer-pune",
+    "category": "LDO",
+    "subproduct": "Low Viscocity Oil",
+    "objective": "Importer",
+    "city": "Pune",
+    "title": "Low Viscocity Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Low Viscocity Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Low Viscocity Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Chakan MIDC",
+      "Ranjangaon MIDC",
+      "Talegaon MIDC",
+      "Pimpri-Chinchwad MIDC",
+      "Bhosari Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png"
+  },
+  {
+    "slug": "ldo-light-density-oil-importer-nashik",
+    "category": "LDO",
+    "subproduct": "Light Density Oil",
+    "objective": "Importer",
+    "city": "Nashik",
+    "title": "Light Density Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Light Density Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Light Density Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Satpur MIDC",
+      "Ambad MIDC",
+      "Sinnar MIDC",
+      "Igatpuri Industrial Belt",
+      "Dindori Agro-Processing Zone"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png"
+  },
+  {
+    "slug": "ldo-boiler-ldo-importer-aurangabad",
+    "category": "LDO",
+    "subproduct": "Boiler LDO",
+    "objective": "Importer",
+    "city": "Aurangabad",
+    "title": "Boiler LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Boiler LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Boiler LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Waluj MIDC",
+      "Shendra MIDC",
+      "Chikalthana MIDC",
+      "Paithan MIDC",
+      "MIDC CIDCO Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png"
+  },
+  {
+    "slug": "ldo-hotmix-ldo-importer-kolhapur",
+    "category": "LDO",
+    "subproduct": "Hotmix LDO",
+    "objective": "Importer",
+    "city": "Kolhapur",
+    "title": "Hotmix LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Hotmix LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Hotmix LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Shiroli MIDC",
+      "Gokul Shirgaon MIDC",
+      "Kagal-Hatkanangale MIDC",
+      "Jaysingpur Industrial Area",
+      "Uchgaon Industrial Belt"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327044/Kolhapur_br2eng.png"
+  },
+  {
+    "slug": "ldo-light-diesel-oil-importer-goa",
+    "category": "LDO",
+    "subproduct": "Light Diesel Oil",
+    "objective": "Importer",
+    "city": "Goa",
+    "title": "Light Diesel Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Light Diesel Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Light Diesel Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Verna Industrial Estate",
+      "Kundaim Industrial Estate",
+      "Ponda Industrial Estate",
+      "Corlim Industrial Area",
+      "Bicholim Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327063/Goa_htisx5.png"
+  },
+  {
+    "slug": "ldo-light-fuel-oil-importer-hubli",
+    "category": "LDO",
+    "subproduct": "Light Fuel Oil",
+    "objective": "Importer",
+    "city": "Hubli",
+    "title": "Light Fuel Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Light Fuel Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Light Fuel Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Gokul Industrial Estate",
+      "Tarihal Industrial Area",
+      "Navanagar Industrial Cluster",
+      "Rayapur Gokul Road Estate",
+      "Hubli-Dharwad Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327150/Hubli_gnxnai.png"
+  },
+  {
+    "slug": "ldo-eco-blend-ldo-importer-belgaum",
+    "category": "LDO",
+    "subproduct": "Eco Blend LDO",
+    "objective": "Importer",
+    "city": "Belgaum",
+    "title": "Eco Blend LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Eco Blend LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Eco Blend LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Udyambag Industrial Estate",
+      "Macche Industrial Zone",
+      "Auto Nagar Belgaum",
+      "Honaga Industrial Estate",
+      "Kakti Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327172/Belgaum_vio3a1.png"
+  },
+  {
+    "slug": "ldo-low-sulphur-ldo-importer-tumkur",
+    "category": "LDO",
+    "subproduct": "Low Sulphur LDO",
+    "objective": "Importer",
+    "city": "Tumkur",
+    "title": "Low Sulphur LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Low Sulphur LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Low Sulphur LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Vasanthanarasapura Industrial Area",
+      "Dobbaspet Industrial Estate",
+      "Tumkur-Kunigal Industrial Belt",
+      "Hirehalli Industrial Area",
+      "Sira Industrial Zone"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327202/Tumkur_i5sxxu.png"
+  },
+  {
+    "slug": "ldo-marine-grade-ldo-importer-bengaluru",
+    "category": "LDO",
+    "subproduct": "Marine Grade LDO",
+    "objective": "Importer",
+    "city": "Bengaluru",
+    "title": "Marine Grade LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Marine Grade LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Marine Grade LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Peenya Industrial Area",
+      "Bommasandra Industrial Area",
+      "Whitefield Industrial Zone",
+      "Jigani Industrial Estate",
+      "Electronic City Phase 1 & 2"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327239/Bangluru_hpgpbs.png"
+  },
+  {
+    "slug": "ldo-industrial-grade-ldo-importer-silvassa",
+    "category": "LDO",
+    "subproduct": "Industrial Grade LDO",
+    "objective": "Importer",
+    "city": "Silvassa",
+    "title": "Industrial Grade LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Industrial Grade LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Industrial Grade LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Amli Industrial Estate",
+      "Kherdi Industrial Zone",
+      "Rakholi Industrial Area",
+      "Naroli Industrial Cluster",
+      "Piparia Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327270/Silvassa_mr9qj1.png"
+  },
+  {
+    "slug": "ldo-low-viscocity-oil-importer-vapi",
+    "category": "LDO",
+    "subproduct": "Low Viscocity Oil",
+    "objective": "Importer",
+    "city": "Vapi",
+    "title": "Low Viscocity Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Low Viscocity Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Low Viscocity Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "GIDC Vapi Industrial Estate",
+      "Gunjan Industrial Zone",
+      "Sarigam GIDC",
+      "Pardi Industrial Area",
+      "Koparli Road Industries"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327302/Vapi_qse23h.png"
+  },
+  {
+    "slug": "ldo-light-density-oil-importer-surat",
+    "category": "LDO",
+    "subproduct": "Light Density Oil",
+    "objective": "Importer",
+    "city": "Surat",
+    "title": "Light Density Oil",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Light Density Oil is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Light Density Oil",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Udhna Industrial Estate",
+      "Sachin GIDC",
+      "Pandesara GIDC",
+      "Hazira Industrial Belt",
+      "Bhestan Industrial Area"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327325/Surat_ch1nvy.png"
+  },
+  {
+    "slug": "ldo-boiler-ldo-importer-ahmedabad",
+    "category": "LDO",
+    "subproduct": "Boiler LDO",
+    "objective": "Importer",
+    "city": "Ahmedabad",
+    "title": "Boiler LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Boiler LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Boiler LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "Vatva GIDC",
+      "Naroda GIDC",
+      "Odhav Industrial Estate",
+      "Changodar Industrial Area",
+      "Bavla Industrial Zone"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327345/Ahemdabad_ztd0de.png"
+  },
+  {
+    "slug": "ldo-hotmix-ldo-importer-dhule",
+    "category": "LDO",
+    "subproduct": "Hotmix LDO",
+    "objective": "Importer",
+    "city": "Dhule",
+    "title": "Hotmix LDO",
+    "subtitle": "Trusted Importer of LDO across industrial sectors",
+    "description": "Hotmix LDO is preferred for consistent ignition, low sulfur emissions, and performance in industrial boilers and engines.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+    ],
+    "productname": "Hotmix LDO",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
+    "usesdescription": [
+      "Used in industrial boilers and furnaces",
+      "Supports smooth engine combustion",
+      "Preferred for road construction equipment"
+    ],
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "areanames": [
+      "MIDC Dhule",
+      "Avdhan Industrial Zone",
+      "Chinchkhede Agrochemical Belt",
+      "Shirpur Textile & Chemical Area",
+      "Nardana Industrial Estate"
+    ],
+    "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327354/Dhule_d4vhux.png"
+  }
+]

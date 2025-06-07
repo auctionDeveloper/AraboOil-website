@@ -1,15 +1,24 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import productData from '../api/product.json'; // your big JSON
+import productData from '../api/product.json';
 import ProductCategoryPage from '../pages/ProductCategoryPage';
 
-// Convert slug like "white-base-oil" to "White Base Oil", "mto" to "MTO"
 function slugToKey(slug) {
-  const acronyms = ['mto', 'ldo'];
-  if (acronyms.includes(slug.toLowerCase())) {
-    return slug.toUpperCase();
+  const cleanSlug = slug.replace(/[()]/g, '').toLowerCase();
+
+  const specialMap = {
+    'ldo': 'LDO',
+    'cnsl-resin': 'CNSL Resin',
+    'white-base-oil': 'White Base Oil',
+    'yellow-base-oil': 'Yellow Base Oil',
+    'mto': 'MTO',
+  };
+
+  if (specialMap[cleanSlug]) {
+    return specialMap[cleanSlug];
   }
-  return slug
+
+  return cleanSlug
     .split('-')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');

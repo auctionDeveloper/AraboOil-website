@@ -1,0 +1,294 @@
+{
+  "Hydrocarbon": {
+    "Light Hydrocarbon": {
+      "slug": "light-hydrocarbon",
+      "title": "Light Hydrocarbon",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Light Hydrocarbon is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Verna Industrial Estate",
+        "Kundaim Industrial Estate",
+        "Ponda Industrial Estate",
+        "Corlim Industrial Area",
+        "Bicholim Industrial Estate"
+      ],
+      "city": "Goa",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327063/Goa_htisx5.png",
+      "productname": "Light Hydrocarbon"
+    },
+    "Heavy Hydrocarbon": {
+      "slug": "heavy-hydrocarbon",
+      "title": "Heavy Hydrocarbon",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Heavy Hydrocarbon is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Gokul Industrial Estate",
+        "Tarihal Industrial Area",
+        "Navanagar Industrial Cluster",
+        "Rayapur Gokul Road Estate",
+        "Hubli-Dharwad Industrial Area"
+      ],
+      "city": "Hubli",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327150/Hubli_gnxnai.png",
+      "productname": "Heavy Hydrocarbon"
+    },
+    "Aromatic Hydrocarbon": {
+      "slug": "aromatic-hydrocarbon",
+      "title": "Aromatic Hydrocarbon",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Aromatic Hydrocarbon is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Udyambag Industrial Estate",
+        "Macche Industrial Zone",
+        "Auto Nagar Belgaum",
+        "Honaga Industrial Estate",
+        "Kakti Industrial Area"
+      ],
+      "city": "Belgaum",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327172/Belgaum_vio3a1.png",
+      "productname": "Aromatic Hydrocarbon"
+    },
+    "Mix Hdrocarbon oil": {
+      "slug": "mix-hdrocarbon-oil",
+      "title": "Mix Hdrocarbon oil",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Mix Hdrocarbon oil is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Vasanthanarasapura Industrial Area",
+        "Dobbaspet Industrial Estate",
+        "Tumkur-Kunigal Industrial Belt",
+        "Hirehalli Industrial Area",
+        "Sira Industrial Zone"
+      ],
+      "city": "Tumkur",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327202/Tumkur_i5sxxu.png",
+      "productname": "Mix Hdrocarbon oil"
+    },
+    "10 PPM": {
+      "slug": "10-ppm",
+      "title": "10 PPM",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "10 PPM is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Peenya Industrial Area",
+        "Bommasandra Industrial Area",
+        "Whitefield Industrial Zone",
+        "Jigani Industrial Estate",
+        "Electronic City Phase 1 & 2"
+      ],
+      "city": "Bengaluru",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327239/Bangluru_hpgpbs.png",
+      "productname": "10 PPM"
+    },
+    "Industrial oil": {
+      "slug": "industrial-oil",
+      "title": "Industrial oil",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Industrial oil is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Amli Industrial Estate",
+        "Kherdi Industrial Zone",
+        "Rakholi Industrial Area",
+        "Naroli Industrial Cluster",
+        "Piparia Industrial Estate"
+      ],
+      "city": "Silvassa",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327270/Silvassa_mr9qj1.png",
+      "productname": "Industrial oil"
+    },
+    "Processing oil": {
+      "slug": "processing-oil",
+      "title": "Processing oil",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Processing oil is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "GIDC Vapi Industrial Estate",
+        "Gunjan Industrial Zone",
+        "Sarigam GIDC",
+        "Pardi Industrial Area",
+        "Koparli Road Industries"
+      ],
+      "city": "Vapi",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327302/Vapi_qse23h.png",
+      "productname": "Processing oil"
+    },
+    "Hydrocarbon oil": {
+      "slug": "hydrocarbon-oil",
+      "title": "Hydrocarbon oil",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Hydrocarbon oil is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Udhna Industrial Estate",
+        "Sachin GIDC",
+        "Pandesara GIDC",
+        "Hazira Industrial Belt",
+        "Bhestan Industrial Area"
+      ],
+      "city": "Surat",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327325/Surat_ch1nvy.png",
+      "productname": "Hydrocarbon oil"
+    },
+    "Industrial Hydrocarbon": {
+      "slug": "industrial-hydrocarbon",
+      "title": "Industrial Hydrocarbon",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Industrial Hydrocarbon is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Vatva GIDC",
+        "Naroda GIDC",
+        "Odhav Industrial Estate",
+        "Changodar Industrial Area",
+        "Bavla Industrial Zone"
+      ],
+      "city": "Ahemdabad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327345/Ahemdabad_ztd0de.png",
+      "productname": "Industrial Hydrocarbon"
+    },
+    "Solvent-Grade Hydrocarbon": {
+      "slug": "solvent-grade-hydrocarbon",
+      "title": "Solvent-Grade Hydrocarbon",
+      "subtitle": "Versatile Hydrocarbon Product for Industrial Use",
+      "description": "Solvent-Grade Hydrocarbon is commonly utilized across industrial processes for its reliable performance, energy efficiency, and compatibility with various applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Industrial heating",
+        "Power generation",
+        "Chemical processing",
+        "Feedstock for refineries",
+        "Marine operations"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "MIDC Dhule",
+        "Avdhan Industrial Zone",
+        "Chinchkhede Agrochemical Belt",
+        "Shirpur Textile & Chemical Area",
+        "Nardana Industrial Estate"
+      ],
+      "city": "Dhule",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327354/Dhule_d4vhux.png",
+      "productname": "Solvent-Grade Hydrocarbon"
+    }
+  }
+}

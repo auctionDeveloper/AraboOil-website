@@ -1,0 +1,272 @@
+{
+  "Biofuel": {
+    "Biodiesel": {
+      "slug": "biodiesel",
+      "title": "Biodiesel",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Biodiesel is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Andheri MIDC",
+        "Marol Industrial Estate",
+        "Mahalaxmi Industrial Estate",
+        "Lower Parel Industrial Zone",
+        "Kurla Nehru Nagar Industrial Cluster"
+      ],
+      "city": "Mumbai",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png",
+      "productname": "Biodiesel"
+    },
+    "Biofuel": {
+      "slug": "biofuel",
+      "title": "Biofuel",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Biofuel is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Turbhe MIDC",
+        "TTC Industrial Area",
+        "Kopar Khairane Industrial Belt",
+        "Rabale MIDC",
+        "Airoli Industrial Cluster"
+      ],
+      "city": "Navi Mumbai",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326590/navi_mumbai_sl0qdw.png",
+      "productname": "Biofuel"
+    },
+    "Biodiesel B100": {
+      "slug": "biodiesel-b100",
+      "title": "Biodiesel B100",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Biodiesel B100 is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Wagle Industrial Estate",
+        "Kalwa Industrial Area",
+        "Kolshet Industrial Area",
+        "Majiwada Industrial Zone",
+        "Dombivli MIDC"
+      ],
+      "city": "Thane",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326631/Thane_dtdpxj.png",
+      "productname": "Biodiesel B100"
+    },
+    "Biodiesel b20": {
+      "slug": "biodiesel-b20",
+      "title": "Biodiesel b20",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Biodiesel b20 is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Boisar MIDC",
+        "Tarapur MIDC",
+        "Palghar East Industrial Cluster",
+        "Manor MIDC",
+        "Saphale Industrial Area"
+      ],
+      "city": "Palghar",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326806/palghar_ymel8k.png",
+      "productname": "Biodiesel b20"
+    },
+    "Biodiesel Methyl Easter": {
+      "slug": "biodiesel-methyl-easter",
+      "title": "Biodiesel Methyl Easter",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Biodiesel Methyl Easter is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Taloja MIDC",
+        "Patalganga MIDC",
+        "Mahad MIDC",
+        "Roha MIDC",
+        "Khopoli Industrial Belt"
+      ],
+      "city": "Raigad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326833/Raigad_qxc2w4.png",
+      "productname": "Biodiesel Methyl Easter"
+    },
+    "Bioethanol E85": {
+      "slug": "bioethanol-e85",
+      "title": "Bioethanol E85",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Bioethanol E85 is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "New Panvel Industrial Node",
+        "Kalundre MIDC",
+        "Panvel Matheran Road Zone",
+        "Palaspe Phata Cluster"
+      ],
+      "city": "Panvel",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326865/Panvel_r0ncse.png",
+      "productname": "Bioethanol E85"
+    },
+    "Bioethanol E100": {
+      "slug": "bioethanol-e100",
+      "title": "Bioethanol E100",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Bioethanol E100 is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Chakan MIDC",
+        "Ranjangaon MIDC",
+        "Talegaon MIDC",
+        "Pimpri-Chinchwad MIDC"
+      ],
+      "city": "Pune",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326955/Pune_igzg2h.png",
+      "productname": "Bioethanol E100"
+    },
+    "Used Cooking Oil Biofuel": {
+      "slug": "used-cooking-oil-biofuel",
+      "title": "Used Cooking Oil Biofuel",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Used Cooking Oil Biofuel is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Satpur MIDC",
+        "Ambad MIDC",
+        "Sinnar MIDC",
+        "Igatpuri Industrial Belt",
+        "Dindori Agro-Processing Zone"
+      ],
+      "city": "Nashik",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326983/Nashik_dwzzaf.png",
+      "productname": "Used Cooking Oil Biofuel"
+    },
+    "Jatropha-Based Biofuel": {
+      "slug": "jatropha-based-biofuel",
+      "title": "Jatropha-Based Biofuel",
+      "subtitle": "Renewable fuel solution for a sustainable future",
+      "description": "Jatropha-Based Biofuel is used across industrial sectors as a clean-burning, environmentally friendly fuel alternative. It supports reduced emissions and aligns with green energy goals.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+      ],
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "usesdescription": [
+        "Reduces carbon emissions",
+        "Compatible with diesel engines",
+        "Cost-effective renewable fuel",
+        "Supports sustainable energy goals",
+        "Improves air quality"
+      ],
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "areanames": [
+        "Waluj MIDC",
+        "Shendra MIDC",
+        "Chikalthana MIDC",
+        "Paithan MIDC",
+        "MIDC CIDCO Industrial Area"
+      ],
+      "city": "Aurangabad",
+      "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748327012/Aurangabad_mjyl6p.png",
+      "productname": "Jatropha-Based Biofuel"
+    }
+  }
+}

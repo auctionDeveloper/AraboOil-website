@@ -58,7 +58,7 @@
         { "name": "Synthetic Yellow Base oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
       ]
     },
-    "LDO (Light Diesel Oil)": {
+    "LDO": {
       "title": "LDO (Light Diesel Oil)",
       "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
       "description": "Light Diesel Oil (LDO) is a refined petroleum product used primarily as a fuel in industrial boilers, furnaces, and diesel engines. It offers high combustion efficiency with low sulfur content, providing a cleaner and more environmentally friendly energy source. LDO is widely preferred for its cost-effectiveness and dependable performance.",
@@ -137,7 +137,7 @@
       "title": "Briquette",
       "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
       "description": "Briquettes are compacted blocks of combustible materials used as an alternative fuel source. Made from biomass, coal, or charcoal, they offer a clean-burning and energy-efficient fuel option for industrial heating, cooking, and power generation. Briquettes are cost-effective, easy to store, and environmentally friendly.",
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      
       "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "subproducts": [
         { "name": "Biomass Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
