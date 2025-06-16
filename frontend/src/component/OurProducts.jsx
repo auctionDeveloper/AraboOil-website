@@ -19,13 +19,15 @@ const PRODUCTS = [
     slug: '/product/biofuel/biodiesel',
     img: BioFuel,
   },
-  { title: 'Black Fuel Oil', slug: '/product/fueloil/black-fuel-oil', img: FuelOil },
+  { title: 'Base Oil SN150', slug: '/product/yellow-base-oil/base-oil-sn150', img: YellowBaseOil },
   { title: 'Mixed Hydrocarbon Oil', slug: '/product/hydrocarbon/mixed-oil', img: Hydrocarbon },
   { title: 'MTO Mineral Turpentine Oil', slug: 'product/mto', img: MTO },
   { title: 'Light Diesel Oil', slug: '/product/ldo/light-diesel-oil', img: LDO  },
   { title: 'N70 Base Oil', slug: '/product/white-base-oil/base-oil-n70' , img: WhiteBaseOil},
-  { title: 'Furnace Oil', slug: '/fueloil/furnace-oil', img: FuelOil },
-
+  { title: 'Furnace Oil', slug: '/product/fueloil/furnace-oil', img: FuelOil },
+ { title: 'Industrial Solvent', slug: '/product/solvent/industrial-solvent', img: Solvent },
+ { title: 'Clear Lamp Oil', slug: '/product/lamp-oil/clear-lamp-oil', img: LampOil },
+ { title: 'Phenolic CNSL Resin', slug: '/product/cnsl-resin/phenolic-cnsl-resin', img: CNSLResin },
 ];
 
 export default function OurProducts() {
