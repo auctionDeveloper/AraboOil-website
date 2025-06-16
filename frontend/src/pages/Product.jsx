@@ -1,137 +1,74 @@
-import React from 'react'
-import MTO from '../assets/mto.png'
-import YellowBaseOil from '../assets/baseoil.png'
-import WhiteBaseOil from '../assets/whitebaseoil.png'
-import LDO from '../assets/ldo.png'
-import FuelOil from '../assets/fueloil.png'
-import BioFuel from '../assets/biofuel.png'
-import Solvent from '../assets/solvent.png'
-import Briqutte from '../assets/beriqutte.png'
-import CNSLResin from '../assets/cnslresin.png'
-import LampOil from '../assets/lampoil.png'
-import Hydrocarbon from '../assets/hydrocarbon.png'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
+// Import all product images
+import MTO from '../assets/mto.png';
+import YellowBaseOil from '../assets/baseoil.png';
+import WhiteBaseOil from '../assets/whitebaseoil.png';
+import LDO from '../assets/ldo.png';
+import FuelOil from '../assets/fueloil.png';
+import BioFuel from '../assets/biofuel.png';
+import Solvent from '../assets/solvent.png';
+import Briquette from '../assets/beriqutte.png';
+import CNSLResin from '../assets/cnslresin.png';
+import LampOil from '../assets/lampoil.png';
+import Hydrocarbon from '../assets/hydrocarbon.png';
+
+// Product list
+const products = [
+  { name: "Mineral Turpentine Oil (MTO)", image: MTO, path: "/product/mto" },
+  { name: "Yellow Base Oil", image: YellowBaseOil, path: "/product/yellow-base-oil" },
+  { name: "White Base Oil", image: WhiteBaseOil, path: "/product/white-base-oil" },
+  { name: "Light Diesel Oil (LDO)", image: LDO, path: "/product/ldo" },
+  { name: "Furnace Oil / Fuel Oil", image: FuelOil, path: "/product/fuel-oil" },
+  { name: "Bio Fuel", image: BioFuel, path: "/product/biofuel" },
+  { name: "Solvent", image: Solvent, path: "/product/solvent" },
+  { name: "Briquette", image: Briquette, path: "/product/briquette" },
+  { name: "CNSL Resin", image: CNSLResin, path: "/product/cnsl-resin" },
+  { name: "Lamp Oil", image: LampOil, path: "/product/lamp-oil" },
+  { name: "Hydrocarbon", image: Hydrocarbon, path: "/product/hydrocarbon" },
+];
 
 export default function Product() {
   return (
-   <div className='container max-w-6xl mx-auto sm:px-6 lg:px-8'>
-    <div> <h1 className='w-full text-2xl font-bold  text-center py-7'>Our <span className='text-[#980000]'>Products</span></h1>
-    </div> 
-
-<div className='max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 grid gap-10 '>
-
-      <div className='flex gap-4 '>
-        <div className='w-1/3 flex'>
-          <Link to="/product/mto" className="text-center">
+    <div className="max-w-7xl mx-auto px-4 py-10">
+      <h2 className="text-2xl font-bold text-center mb-10">
+        Our <span className="text-red-700">Products</span>
+      </h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+        {products.map((product, idx) => (
+          <div
+            key={idx}
+            className="bg-white shadow-md p-5 rounded-lg text-center hover:shadow-lg transition-shadow duration-300"
+          >
+              <Link
+                to={product.path}
+              >   
+              <div className="w-[300px] h-[280px] mx-auto flex items-center justify-center">
   <img
-    src={MTO}
-    alt="MTO"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
+    src={product.image}
+    alt={product.name}
+    loading="lazy"
+    className="object-contain w-full h-full"
   />
-  <p className="mt-2 text-base font-semibold text-gray-800">MTO</p>
-</Link>
-
-        </div>
-      <div className='w-1/3'>
-         <Link to="/product/yellow-base-oil" className="text-center">
-  <img
-    src={YellowBaseOil}
-    alt="Yellow Base Oil"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Yellow Base Oil</p>
-</Link>
 </div>
 
-      <div className='w-1/3'>
-         <Link to="/product/white-base-oil" className="text-center">
-  <img
-    src={WhiteBaseOil}
-    alt="White Base Oil"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">White Base Oil</p>
-</Link></div>
-
-      </div>
-
-  <div className='flex gap-4'>
-        <div className='w-1/3'>   <Link to="/product/ldo" className="text-center">
-  <img
-    src={LDO}
-    alt="ldo"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">LDO</p>
-</Link></div>
-      <div className='w-1/3'>   <Link to="/product/fuel-oil" className="text-center">
-  <img
-    src={FuelOil}
-    alt="Fuel oil"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Fuel oil</p>
-</Link></div>
-
-      <div className='w-1/3'><Link to="/product/biofuel" className="text-center">
-  <img
-    src={BioFuel}
-    alt="BioFuel"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Bio Fuel</p>
-</Link></div>
-      </div>
-
-   <div className='flex gap-4'>
-        <div className='w-1/3'>   <Link to="/product/solvent" className="text-center">
-  <img
-    src={Solvent}
-    alt="Solvent"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Solvent</p>
-</Link></div>
-
-      <div className='w-1/3'>   <Link to="/product/briquette" className="text-center">
-  <img
-    src={Briqutte}
-    alt="Briquette"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Briquette</p>
-</Link></div>
-      <div className='w-1/3'>   <Link to="/product/cnsl-resin" className="text-center">
-  <img
-    src={CNSLResin}
-    alt="CNSL Resin"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">CNSL Resin</p>
-</Link></div>
-      </div>
-
-     <div className='flex justify-center gap-4'>
-             <div className='w-1/3'>   <Link to="/product/lamp-oil" className="text-center">
-  <img
-    src={LampOil}
-    alt="Lamp Oil"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Lamp Oil</p>
-</Link></div>
-      <div className='w-1/3'>   <Link to="/product/hydrocarbon" className="text-center">
-  <img
-    src={Hydrocarbon}
-    alt="Hydrocarbon"
-    className="w-64 h-45 shadow-md mx-auto hover:shadow-[0_6px_16px_rgba(0,0,0,0.15)] transition-shadow duration-300 "
-  />
-  <p className="mt-2 text-base font-semibold text-gray-800">Hydrocarbon</p>
-</Link></div>
-    
+</Link> 
+            <h3 className="text-md font-semibold mt-4">{product.name}</h3>
+            <div className="mt-4 flex justify-center gap-4">
+              <button className="bg-red-700 text-white px-4 py-1 text-sm rounded-full hover:bg-red-800">
+                Enquiry Now
+              </button>
+              <Link
+                to={product.path}
+                className="border border-red-700 text-red-700 px-4 py-1 text-sm rounded-full hover:bg-red-50"
+              >
+                View More
+              </Link>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
-   </div>
-  )
+  );
 }

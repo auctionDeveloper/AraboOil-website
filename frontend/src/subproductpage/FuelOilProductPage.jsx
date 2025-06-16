@@ -1,24 +1,43 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 
-// ✅ Import all 5 Fuel Oil JSON files
-import supplierData from '../data/fueloil/FueloilSupplier.json';
-import traderData from '../data/fueloil/FueloilTrader.json';
-import manufacturerData from '../data/fueloil/FueloilManufacture.json';
-import importerData from '../data/fueloil/FueloilImporter.json';
-import distributerData from '../data/fueloil/FueloilDistributer.json';
+const BASE = "https://raw.githubusercontent.com/auctionDeveloper/Fueloil-json-data/main/data/fueloil/";
+
+const objectiveFiles = {
+  Supplier: "FueloilSupplier.json",
+  Trader: "FueloilTrader.json",
+  Manufacturer: "FueloilManufacture.json",
+  Importer: "FueloilImporter.json",
+  Distributor: "FueloilDistributer.json",
+};
 
 export default function FuelOilProductPage({ data }) {
+  const [objectiveMap, setObjectiveMap] = useState({});
+  const [loading, setLoading] = useState(true);
+
   const metaDesc = data.description?.substring(0, 160);
   const seoURL = `https://fueloil.in/product/fuel-oil/${data.slug}`;
 
-  const objectiveMap = {
-    Supplier: supplierData,
-    Trader: traderData,
-    Manufacturer: manufacturerData,
-    Importer: importerData,
-    Distributor: distributerData,
-  };
+  useEffect(() => {
+    const fetchObjectives = async () => {
+      setLoading(true);
+      const map = {};
+      for (const [key, file] of Object.entries(objectiveFiles)) {
+        try {
+          const res = await fetch(`${BASE}${file}`);
+          const json = await res.json();
+          map[key] = json;
+        } catch (err) {
+          console.error(`Failed to fetch ${key}:`, err);
+          map[key] = [];
+        }
+      }
+      setObjectiveMap(map);
+      setLoading(false);
+    };
+
+    fetchObjectives();
+  }, []);
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
@@ -39,28 +58,48 @@ export default function FuelOilProductPage({ data }) {
         <link rel="canonical" href={seoURL} />
       </Helmet>
 
-      {/* Images */}
-      <div className="grid grid-cols-3 md:grid-cols-6 gap-2 mb-8">
-        {data.images.map((img, idx) => (
-          <img key={idx} src={img} alt="Fuel Oil" className="rounded-md object-cover h-32 w-full" />
-        ))}
-      </div>
+      {/* Product Images */}
+     <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2 mb-8">
+  {data.images.map((img, idx) => (
+    <img
+      key={idx}
+      src={img}
+      alt="MTO"
+      className="rounded-md object-cover w-full h-[100px] sm:h-[120px] md:h-[130px]"
+    />
+  ))}
+</div>
 
-      {/* Title & Subtitle */}
+
+      {/* Title + Subtitle */}
       <div className="text-center mb-8">
         <h1 className="text-3xl font-bold text-[#0c2c53]">{data.title}</h1>
         <h2 className="text-xl text-red-700 font-semibold mt-1">({data.subtitle})</h2>
       </div>
 
       {/* Description + Main Image */}
-      <div className="flex flex-col md:flex-row gap-8 mb-12">
-        <div className="md:w-1/2 text-gray-700 leading-relaxed whitespace-pre-line">{data.description}</div>
-        <div className="md:w-1/2 flex justify-center">
-          <img src={data.image1} alt="Main Fuel Oil" className="rounded-md shadow-md max-w-[300px]" />
-        </div>
-      </div>
+ {/* ✅ Description + Image */}
+<div className="flex flex-col md:flex-row gap-8 mb-12 items-start">
+  {/* 📄 Description Text */}
+  <div className="md:w-1/2 text-gray-700 leading-relaxed whitespace-pre-line text-justify">
+    {data.description}
+  </div>
 
-      {/* COA */}
+  {/* 🧪 Description Image (Right-aligned & full width like others) */}
+<div className="md:w-1/2 flex justify-center md:justify-end w-full">
+  <div className="w-[300px] sm:w-[350px] md:w-[380px]">
+    <img
+      src={data.image1}
+      alt="Main MTO"
+      className="rounded-md shadow-md h-[250px] object-contain w-full"
+    />
+  </div>
+</div>
+
+</div>
+
+
+      {/* COA Section */}
       <div className="mb-12 text-center px-4 overflow-x-auto">
         <h3 className="text-2xl font-semibold mb-4">Certificate of Analysis (COA)</h3>
         <p className="text-sm mb-4">
@@ -75,59 +114,89 @@ export default function FuelOilProductPage({ data }) {
         </div>
       </div>
 
-      {/* Uses Section */}
-      <div className="flex flex-col md:flex-row gap-6 mb-12">
-        <div className="flex justify-center md:w-1/2">
-          <img src={data.usesimages} alt="Uses" className="rounded-md w-[250px] h-auto shadow-md object-contain" />
-        </div>
-        <div className="md:w-1/2">
-          <h3 className="text-2xl font-bold mb-4">Uses of <span className="text-red-600">{data.productname}</span></h3>
-          <ul className="list-disc pl-5 text-gray-700 leading-relaxed">
-            {(Array.isArray(data.usesdescription) ? data.usesdescription : data.usesdescription?.split('\n')).map((item, idx) => (
-              <li key={idx} className="mb-2">{item.replace(/^\u2022\s?/, '')}</li>
-            ))}
-          </ul>
-        </div>
-      </div>
+<div className="flex flex-col md:flex-row gap-8 mb-12 items-start">
+  {/* 🧪 Uses Image - Aligned Left */}
+  <div className="md:w-1/2 flex justify-center md:justify-start w-full">
+    <div className="w-[300px] sm:w-[350px] md:w-[380px]">
+      <img
+        src={data.usesimages}
+        alt="Uses"
+        className="rounded-md shadow-md h-[250px] w-full object-contain"
+      />
+    </div>
+  </div>
 
-      {/* Areas Served + Map */}
-      <div className="flex flex-col md:flex-row gap-8 mb-12">
-        <div className="md:w-1/2">
-          <h3 className="text-2xl font-bold mb-4">
-            Places We Serve <span className="text-red-600">{data.productname}</span> in <span className="text-blue-600">{data.city}</span>
-          </h3>
-          <ul className="list-disc pl-5 text-gray-700 leading-relaxed">
-            {data.areanames.map((area, idx) => <li key={idx} className="mb-2">{area}</li>)}
-          </ul>
-        </div>
-        <div className="md:w-1/2 flex justify-center">
-          <img src={data.images_map} alt={`${data.city} map`} className="rounded-md shadow-md max-w-md" />
-        </div>
-      </div>
+  {/* 🧾 Uses Text - Aligned Right */}
+  <div className="md:w-1/2 flex justify-center md:justify-end w-full text-gray-700">
+    <div className="w-[300px] sm:w-[350px] md:w-[380px]">
+      <h3 className="text-2xl font-bold mb-4">
+        Uses of <span className="text-red-600">{data.productname}</span>
+      </h3>
+      <ul className="list-disc pl-5 leading-relaxed text-justify">
+        {(Array.isArray(data.usesdescription) ? data.usesdescription : data.usesdescription?.split('\n')).map((item, idx) => (
+          <li key={idx} className="mb-2">{item.replace(/^\u2022\s?/, '')}</li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+      {/* Area Names + Map */}
+   {/* ✅ Area Names + Map */}
+<div className="flex flex-col md:flex-row gap-8 mb-12 items-start">
+  {/* 📍 Area Text */}
+  <div className="md:w-1/2 text-gray-700">
+    <h3 className="text-2xl font-bold mb-4">
+      Places We Serve <span className="text-red-600">{data.productname}</span> in <span className="text-blue-600">{data.city}</span>
+    </h3>
+    <ul className="list-disc pl-5 leading-relaxed text-justify">
+      {data.areanames.map((area, idx) => (
+        <li key={idx} className="mb-2">{area}</li>
+      ))}
+    </ul>
+  </div>
+
+  {/* 🗺️ Map Image - NOW aligned right & bigger */}
+ <div className="md:w-1/2 flex justify-center md:justify-end w-full">
+  <div className="w-[300px] sm:w-[350px] md:w-[380px]">
+    <img
+      src={data.images_map}
+      alt={`${data.city} map`}
+      className="rounded-lg shadow-md h-[250px] w-full object-contain"
+    />
+  </div>
+</div>
+
+</div>
 
       {/* Objective Links */}
-      <div className="mt-12 border-t pt-6">
+      {/* <div className="mt-12 border-t pt-6">
         <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Fuel Oil by Objective</h2>
 
-        {Object.entries(objectiveMap).map(([objective, list]) => (
-          <div key={objective} className="mb-8">
-            <h3 className="text-lg font-semibold text-center mb-2 text-gray-800">
-              Explore <span className="text-red-600">{objective}</span>
-            </h3>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 text-blue-700 text-sm text-center">
-              {list.map((item) => (
-                <a
-                  key={`${objective}-${item.city}-${item.subproduct}`}
-                  href={`/fuel-oil/${item.subproduct.toLowerCase().replace(/\s+/g, '-')}/${objective.toLowerCase()}/${item.city.toLowerCase().replace(/\s+/g, '-')}`}
-                  className="hover:text-red-600 underline transition-colors"
-                >
-                  {item.city} – {item.subproduct}
-                </a>
-              ))}
+        {loading ? (
+          <p className="text-center text-gray-500">Loading objective links...</p>
+        ) : (
+          Object.entries(objectiveMap).map(([objective, list]) => (
+            <div key={objective} className="mb-8">
+              <h3 className="text-lg font-semibold text-center mb-2 text-gray-800">
+                Explore <span className="text-red-600">{objective}</span>
+              </h3>
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 text-blue-700 text-sm text-center">
+                {list.map((item) => (
+                  <a
+                    key={`${objective}-${item.city}-${item.subproduct}`}
+                    href={`/fuel-oil/${item.subproduct.toLowerCase().replace(/\s+/g, '-')}/${objective.toLowerCase()}/${item.city.toLowerCase().replace(/\s+/g, '-')}`}
+                    className="hover:text-red-600 underline transition-colors"
+                  >
+                    {item.city} – {item.subproduct}
+                  </a>
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
-      </div>
+          ))
+        )}
+      </div> */}
     </div>
   );
 }

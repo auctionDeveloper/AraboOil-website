@@ -1,39 +1,26 @@
-import React from 'react';
-import { useParams } from 'react-router-dom';
-import productData from '../api/product.json';
-import ProductCategoryPage from '../pages/ProductCategoryPage';
-
-function slugToKey(slug) {
-  const cleanSlug = slug.replace(/[()]/g, '').toLowerCase();
-
-  const specialMap = {
-    'ldo': 'LDO',
-    'cnsl-resin': 'CNSL Resin',
-    'white-base-oil': 'White Base Oil',
-    'yellow-base-oil': 'Yellow Base Oil',
-    'mto': 'MTO',
-  };
-
-  if (specialMap[cleanSlug]) {
-    return specialMap[cleanSlug];
-  }
-
-  return cleanSlug
-    .split('-')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
-}
-
-export default function CategoryPageLoader() {
+function CategoryPageLoader() {
   const { category } = useParams();
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
 
-  if (!category) return <div>Category param missing</div>;
+  useEffect(() => {
+    async function fetchCategoryData() {
+      try {
+        const response = await fetch(`${BASE_URL}/product.json`);
+        const result = await response.json();
+        const key = slugToKey(category);
+        const fetchedData = result.product[key] || null;
+        setData(fetchedData);
+      } catch (err) {
+        setData(null);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchCategoryData();
+  }, [category]);
 
-  const lookupKey = slugToKey(category);
-
-  const data = productData.product[lookupKey];
-
-  if (!data) return <div>Category "{lookupKey}" not found</div>;
-
+  if (loading) return <div className="p-4">Loading category...</div>;
+  if (!data) return <div className="p-4 text-red-600">Category not found</div>;
   return <ProductCategoryPage data={data} categorySlug={category} />;
 }

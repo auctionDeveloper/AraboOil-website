@@ -1,4 +1,5 @@
 import React from 'react'
+import ProductsLinks from './ProductsLinks'
 
 export default function Footer() {
   return (
