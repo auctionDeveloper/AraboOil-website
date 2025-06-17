@@ -66,7 +66,7 @@ export default function OurProducts() {
               </div>
 
               {/* Hover overlay */}
-              <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition flex items-end justify-center p-3">
+              <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition flex items-center justify-center p-3">
                 <button
                   onClick={() => handleEnquiry(p)}
                   className="text-xs bg-white text-red-800 font-semibold px-4 py-1 rounded shadow-md"
@@ -121,7 +121,6 @@ export default function OurProducts() {
                       formData.append("subproduct", selectedProduct.subproduct);
 
                       fetch("https://fueloil.in/enquiry.php", {
-
                         method: "POST",
                         body: formData
                       })
