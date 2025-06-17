@@ -179,14 +179,34 @@ export default function Product() {
                   </div>
                 ) : (
                   <form
-                    onSubmit={(e) => {
-                      e.preventDefault();
-                      setSubmitted(true);
-                      setTimeout(() => {
-                        setSubmitted(false);
-                        handleClose();
-                      }, 2000);
-                    }}
+                   onSubmit={(e) => {
+  e.preventDefault();
+
+  const formData = new FormData(e.target);
+  formData.append("product", selectedProduct.name);
+  formData.append("subproduct", selectedSubproduct);
+
+  fetch("https://fueloil.in/enquiry-handler.php", {
+    method: "POST",
+    body: formData
+  })
+    .then(res => res.text())
+    .then((res) => {
+      if (res === "success") {
+        setSubmitted(true);
+        setTimeout(() => {
+          setSubmitted(false);
+          handleClose();
+        }, 2000);
+      } else {
+        alert("Submission failed. Try again.");
+      }
+    })
+    .catch(() => {
+      alert("Server error.");
+    });
+}}
+
                     className="space-y-3"
                   >
                     <div className="flex gap-2">

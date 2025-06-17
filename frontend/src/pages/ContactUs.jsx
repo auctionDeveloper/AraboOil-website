@@ -3,16 +3,35 @@ import bgPlant from '../assets/company.png';
 
 export default function ContactSection() {
   const [submitted, setSubmitted] = useState(false);
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    phone: '',
+    message: ''
+  });
+
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    setSubmitted(true);
 
-    // Auto-hide thank you message after 2 seconds
-    setTimeout(() => {
-      setSubmitted(false);
-      e.target.reset(); // clear form
-    }, 2000);
+    fetch('https://fueloil.in/contact.php', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams(formData)
+    })
+      .then((res) => res.text())
+      .then((data) => {
+        if (data === 'success') {
+          setSubmitted(true);
+          setFormData({ name: '', email: '', phone: '', message: '' });
+          setTimeout(() => setSubmitted(false), 2000);
+        } else {
+          alert('Message failed to send.');
+        }
+      });
   };
 
   return (
@@ -22,7 +41,7 @@ export default function ContactSection() {
       </h2>
 
       <div className="grid md:grid-cols-2">
-        {/* LEFT : background + overlay */}
+        {/* LEFT : Image and text */}
         <div className="relative">
           <img
             src={bgPlant}
@@ -55,6 +74,9 @@ export default function ContactSection() {
             <label className="block text-sm mb-1">Full Name</label>
             <input
               type="text"
+              name="name"
+              value={formData.name}
+              onChange={handleChange}
               placeholder="Full Name"
               className="w-full mb-4 px-4 py-2 rounded-md text-black"
               required
@@ -63,6 +85,9 @@ export default function ContactSection() {
             <label className="block text-sm mb-1">Email</label>
             <input
               type="email"
+              name="email"
+              value={formData.email}
+              onChange={handleChange}
               placeholder="eg. arabo@gmail.com"
               className="w-full mb-4 px-4 py-2 rounded-md text-black"
               required
@@ -71,12 +96,18 @@ export default function ContactSection() {
             <label className="block text-sm mb-1">Phone Number</label>
             <input
               type="tel"
+              name="phone"
+              value={formData.phone}
+              onChange={handleChange}
               placeholder="+91 8546855685"
               className="w-full mb-4 px-4 py-2 rounded-md text-black"
             />
 
             <label className="block text-sm mb-1">Leave Your Message</label>
             <textarea
+              name="message"
+              value={formData.message}
+              onChange={handleChange}
               rows="5"
               placeholder="Type your message here…"
               className="w-full mb-6 px-4 py-2 rounded-md text-black resize-none"
