@@ -178,88 +178,89 @@ export default function Product() {
                     <p className="text-gray-700">Your enquiry has been submitted successfully.</p>
                   </div>
                 ) : (
-                  <form
-                   onSubmit={(e) => {
-  e.preventDefault();
+  <form
+  onSubmit={(e) => {
+    e.preventDefault();
 
-  const formData = new FormData(e.target);
-  formData.append("product", selectedProduct.name);
-  formData.append("subproduct", selectedSubproduct);
+    const formData = new FormData(e.target);
+    formData.append("product", selectedProduct.name);
+    formData.append("subproduct", selectedSubproduct);
 
-  fetch("https://fueloil.in/enquiry-handler.php", {
-    method: "POST",
-    body: formData
-  })
-    .then(res => res.text())
-    .then((res) => {
-      if (res === "success") {
-        setSubmitted(true);
-        setTimeout(() => {
-          setSubmitted(false);
-          handleClose();
-        }, 2000);
-      } else {
-        alert("Submission failed. Try again.");
-      }
+    fetch("https://fueloil.in/enquiry-handler.php", {
+      method: "POST",
+      body: formData
     })
-    .catch(() => {
-      alert("Server error.");
-    });
-}}
+      .then(res => res.text())
+      .then((res) => {
+        if (res === "success") {
+          setSubmitted(true);
+          setTimeout(() => {
+            setSubmitted(false);
+            handleClose();
+          }, 2000);
+        } else {
+          alert("Submission failed. Try again.");
+        }
+      })
+      .catch(() => {
+        alert("Server error.");
+      });
+  }}
+  className="space-y-3"
+>
+  <div className="flex gap-2">
+    {/* Subproduct Select */}
+    <select
+      required
+      name="subproduct"
+      value={selectedSubproduct}
+      onChange={(e) => setSelectedSubproduct(e.target.value)}
+      className="border p-2 w-1/2 rounded"
+    >
+      <option value="">Select Subproduct</option>
+      {subproductOptions[selectedProduct.name]?.map((sub, idx) => (
+        <option key={idx} value={sub}>{sub}</option>
+      ))}
+    </select>
 
-                    className="space-y-3"
-                  >
-                    <div className="flex gap-2">
-                      <select
-                        disabled
-                        value={selectedProduct.name}
-                        className="border p-2 w-1/2 rounded bg-gray-100"
-                      >
-                        <option>{selectedProduct.name}</option>
-                      </select>
+    {/* Quantity Input */}
+    <input
+      type="number"
+      name="quantity"
+      placeholder="Quantity"
+      className="border p-2 w-1/2 rounded"
+      required
+    />
+  </div>
 
-                      <select
-                        required
-                        value={selectedSubproduct}
-                        onChange={(e) => setSelectedSubproduct(e.target.value)}
-                        className="border p-2 w-1/2 rounded"
-                      >
-                        <option value="">Select Subproduct</option>
-                        {subproductOptions[selectedProduct.name]?.map((sub, idx) => (
-                          <option key={idx} value={sub}>{sub}</option>
-                        ))}
-                      </select>
-                    </div>
+  <div className="flex gap-2">
+    {/* Unit Input */}
+    <input
+      type="text"
+      name="unit"
+      placeholder="Measurement Unit"
+      className="border p-2 w-1/2 rounded"
+      required
+    />
 
-                    <div className="flex gap-2">
-                      <input
-                        type="number"
-                        placeholder="Quantity"
-                        className="border p-2 w-1/2 rounded"
-                        required
-                      />
-                      <input
-                        type="text"
-                        placeholder="Measurement Unit"
-                        className="border p-2 w-1/2 rounded"
-                        required
-                      />
-                    </div>
+    {/* Mobile Number Input */}
+    <input
+      type="tel"
+      name="mobile"
+      placeholder="Mobile No."
+      className="border p-2 w-1/2 rounded"
+      required
+    />
+  </div>
 
-                    <input
-                      type="tel"
-                      placeholder="Mobile No."
-                      className="border p-2 w-full rounded"
-                      required
-                    />
+  <button
+    type="submit"
+    className="bg-red-800 text-white py-2 px-4 rounded hover:bg-red-700 w-full"
+  >
+    Submit Enquiry
+  </button>
+</form>
 
-                    <button
-                      type="submit"
-                      className="bg-red-800 text-white py-2 px-4 rounded hover:bg-red-700 w-full"
-                    >
-                      Submit Enquiry
-                    </button>
-                  </form>
                 )}
               </div>
             </div>
