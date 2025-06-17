@@ -169,7 +169,9 @@ export default function FuelOilObjectivesPage() {
           </div>
         </div>
       </div>
-{/* 
+
+      {/* Internal Objective Links Section (optional - currently commented) */}
+      {/* 
       <div className="mt-12 border-t pt-6">
         <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Fuel Oil by Objective</h2>
         {Object.entries(objectiveMap).map(([objectiveKey, list]) => (
@@ -190,7 +192,8 @@ export default function FuelOilObjectivesPage() {
             </div>
           </div>
         ))}
-      </div> */}
+      </div> 
+      */}
     </div>
   );
 }

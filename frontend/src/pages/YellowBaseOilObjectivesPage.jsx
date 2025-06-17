@@ -120,28 +120,6 @@ export default function YellowBaseOilObjectivesPage() {
           <img src={data.images_map} alt={`${data.city} Map`} className="rounded-lg max-w-full sm:max-w-lg max-h-[400px] mx-auto shadow-md" />
         </div>
       </div>
-
-      {/* <div className="mt-12 border-t pt-6">
-        <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Yellow Base Oil by Objective</h2>
-        {Object.entries(objectiveMap).map(([objectiveKey, list]) => (
-          <div key={objectiveKey} className="mb-8">
-            <h3 className="text-lg font-semibold text-center mb-2 text-gray-800">
-              Explore <span className="text-red-600">{objectiveKey}</span>
-            </h3>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 text-blue-700 text-sm text-center">
-              {list.map((item) => (
-                <a
-                  key={`${objectiveKey}-${item.city}`}
-                  href={`/yellow-base-oil/${objectiveKey.toLowerCase()}/${item.city.toLowerCase().replace(/\s+/g, '-')}`}
-                  className="hover:text-red-600 underline transition-colors"
-                >
-                  Yellow Base Oil {objectiveKey} in {item.city}
-                </a>
-              ))}
-            </div>
-          </div>
-        ))}
-      </div> */}
     </div>
   );
 }

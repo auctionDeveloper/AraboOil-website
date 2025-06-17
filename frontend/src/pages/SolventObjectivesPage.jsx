@@ -162,7 +162,8 @@ export default function SolventObjectivesPage() {
         </div>
       </div>
 
-      {/* <div className="mt-12 border-t pt-6">
+      {/* 
+      <div className="mt-12 border-t pt-6">
         <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Solvent by Objective</h2>
         {Object.entries(objectiveMap).map(([objectiveKey, list]) => (
           <div key={objectiveKey} className="mb-8">
@@ -182,7 +183,8 @@ export default function SolventObjectivesPage() {
             </div>
           </div>
         ))}
-      </div> */}
+      </div>
+      */}
     </div>
   );
 }

@@ -72,7 +72,7 @@ export default function LampOilObjectivesPage() {
         <link rel="canonical" href={seoURL} />
       </Helmet>
 
-    {/* Product Images */}
+      {/* Product Images */}
       <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2 mb-8">
         {data.images.map((img, idx) => (
           <img

@@ -67,7 +67,6 @@ export default function MtoObjectivesPage() {
         <link rel="canonical" href={seoURL} />
       </Helmet>
 
-      {/* Product Images */}
       <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2 mb-8">
         {data.images.map((img, idx) => (
           <img
@@ -79,13 +78,11 @@ export default function MtoObjectivesPage() {
         ))}
       </div>
 
-      {/* Title + Subtitle */}
       <div className="text-center mb-8">
         <h1 className="text-3xl font-bold text-[#0c2c53]">{data.title}</h1>
         <h2 className="text-xl text-red-700 font-semibold mt-1">({data.subtitle})</h2>
       </div>
 
-      {/* Description + Main Image */}
       <div className="flex flex-col md:flex-row gap-8 mb-12 items-start">
         <div className="md:w-1/2 text-gray-700 leading-relaxed whitespace-pre-line text-justify">
           {data.description}
@@ -101,7 +98,6 @@ export default function MtoObjectivesPage() {
         </div>
       </div>
 
-      {/* COA Section */}
       <div className="mb-12 text-center px-4 overflow-x-auto">
         <h3 className="text-2xl font-semibold mb-4">Certificate of Analysis (COA)</h3>
         <p className="text-sm mb-4">
@@ -116,7 +112,6 @@ export default function MtoObjectivesPage() {
         </div>
       </div>
 
-      {/* Uses Section */}
       <div className="flex flex-col md:flex-row gap-8 mb-12 items-start">
         <div className="md:w-1/2 flex justify-center md:justify-start w-full">
           <div className="w-[300px] sm:w-[350px] md:w-[380px]">
@@ -141,7 +136,6 @@ export default function MtoObjectivesPage() {
         </div>
       </div>
 
-      {/* Area Names + Map */}
       <div className="flex flex-col md:flex-row gap-8 mb-12 items-start">
         <div className="md:w-1/2 text-gray-700">
           <h3 className="text-2xl font-bold mb-4">

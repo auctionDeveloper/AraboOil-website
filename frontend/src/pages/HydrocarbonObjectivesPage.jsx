@@ -169,6 +169,8 @@ export default function HydrocarbonObjectivesPage() {
           </div>
         </div>
       </div>
+
+      {/* Hidden Internal Links Section (commented) */}
       {/* <div className="mt-12 border-t pt-6">
         <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Hydrocarbon by Objective</h2>
         {Object.entries(objectiveMap).map(([objectiveKey, list]) => (

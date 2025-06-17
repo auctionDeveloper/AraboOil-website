@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import { useParams } from 'react-router-dom';
 import { jsonUrls } from '../utils/jsonLinks';
 
-export default function BriquetteObjectivesPage() {
+export default function BiofuelObjectivesPage() {
   const { subproduct, objective, city } = useParams();
   const [objectiveMap, setObjectiveMap] = useState({});
   const [loading, setLoading] = useState(true);
@@ -12,18 +12,17 @@ export default function BriquetteObjectivesPage() {
     const loadData = async () => {
       try {
         const files = [
-          'BriquetteSupplier',
-          'BriquetteTrader',
-          'BriquetteManufacture',
-          'BriquetteImporter',
-          'BriquetteDistributer'
+          'BiofuelSupplier',
+          'BiofuelTrader',
+          'BiofuelManufacture',
+          'BiofuelImporter',
+          'BiofuelDistributer'
         ];
         const keys = ['supplier', 'trader', 'manufacturer', 'importer', 'distributor'];
 
-   const results = await Promise.all(
-          files.map(file => fetch(jsonUrls.data.briquette[file]).then(res => res.json()))
+        const results = await Promise.all(
+          files.map(file => fetch(jsonUrls.data.biofuel[file]).then(res => res.json()))
         );
-             
 
         const map = {};
         keys.forEach((key, idx) => {
@@ -32,7 +31,7 @@ export default function BriquetteObjectivesPage() {
 
         setObjectiveMap(map);
       } catch (err) {
-        console.error('Failed to load Briquette data:', err);
+        console.error('Failed to load Biofuel data:', err);
       } finally {
         setLoading(false);
       }
@@ -43,26 +42,24 @@ export default function BriquetteObjectivesPage() {
 
   const toSlug = (str) => str?.toLowerCase().replace(/\s+/g, '-');
 
-  if (loading) return <div className="text-center py-10">Loading Briquette data...</div>;
+  if (loading) return <div className="text-center py-10">Loading Biofuel data...</div>;
 
   const dataArray = objectiveMap[objective?.toLowerCase()] || [];
-  const data = dataArray.find(
-    (item) => toSlug(item.city) === city
-  );
+  const data = dataArray.find((item) => toSlug(item.city) === city);
 
   if (!data) return <div className="text-center py-10">Product Not Found</div>;
 
   const image1 = data.image1 || data.images?.[0];
   const usesimages = data.usesimages || data.images?.[1];
   const metaDesc = data.description?.substring(0, 160);
-  const seoURL = `https://fueloil.in/briquette/${subproduct}/${objective}/${city}`;
+  const seoURL = `https://fueloil.in/biofuel/${subproduct}/${objective}/${city}`;
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
       <Helmet>
         <title>{data.title} {objective} in {data.city} | FuelOil.in</title>
         <meta name="description" content={metaDesc} />
-        <meta name="keywords" content={`${data.productname}, ${data.city}, Briquette ${objective}, FuelOil`} />
+        <meta name="keywords" content={`${data.productname}, ${data.city}, Biofuel ${objective}, FuelOil`} />
         <meta property="og:title" content={data.title} />
         <meta property="og:description" content={metaDesc} />
         <meta property="og:image" content={image1} />
@@ -82,7 +79,7 @@ export default function BriquetteObjectivesPage() {
           <img
             key={idx}
             src={img}
-            alt="MTO"
+            alt="Biofuel"
             className="rounded-md object-cover w-full h-[100px] sm:h-[120px] md:h-[130px]"
           />
         ))}
@@ -103,7 +100,7 @@ export default function BriquetteObjectivesPage() {
           <div className="w-[300px] sm:w-[350px] md:w-[380px]">
             <img
               src={data.image1}
-              alt="Main MTO"
+              alt="Main Biofuel"
               className="rounded-md shadow-md h-[250px] object-contain w-full"
             />
           </div>
@@ -172,28 +169,6 @@ export default function BriquetteObjectivesPage() {
           </div>
         </div>
       </div>
-
-      {/* <div className="mt-12 border-t pt-6">
-        <h2 className="text-2xl font-bold mb-4 text-center text-[#980000]">Explore Briquette by Objective</h2>
-        {Object.entries(objectiveMap).map(([objectiveKey, list]) => (
-          <div key={objectiveKey} className="mb-8">
-            <h3 className="text-lg font-semibold text-center mb-2 text-gray-800">
-              Explore <span className="text-red-600">{objectiveKey}</span>
-            </h3>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 text-blue-700 text-sm text-center">
-              {list.map((item) => (
-                <a
-                  key={`${objectiveKey}-${item.city}-${item.subproduct}`}
-                  href={`/briquette/${toSlug(item.subproduct)}/${objectiveKey.toLowerCase()}/${toSlug(item.city)}`}
-                  className="hover:text-red-600 underline transition-colors"
-                >
-                  {item.city} – {item.subproduct}
-                </a>
-              ))}
-            </div>
-          </div>
-        ))}
-      </div> */}
     </div>
   );
 }
