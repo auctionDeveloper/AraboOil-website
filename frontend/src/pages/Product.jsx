@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 // Import all product images
@@ -13,6 +13,64 @@ import Briquette from '../assets/beriqutte.png';
 import CNSLResin from '../assets/cnslresin.png';
 import LampOil from '../assets/lampoil.png';
 import Hydrocarbon from '../assets/hydrocarbon.png';
+
+// Subproduct data
+const subproductOptions = {
+  "Mineral Turpentine Oil (MTO)": [
+    "Thiner", "Reducer", "Mineral Turpentine Oil", "Paint Thiner", "Industrial Turpentine Oil",
+    "Industrial Thiner", "Industrial Solvent", "Industrial Composite Mixture",
+    "MTO Petroleum Oil", "Mix aromatic Solvent"
+  ],
+  "White Base Oil": [
+    "BASE OIL N70", "BASE OIL N150", "BASE OIL N220", "BASE OIL N500", "Base oil N100",
+    "BASE OIL N60", "WHITE OIL", "2 CST WHITE OIL", "Pharmaceutical Grade Base Oil",
+    "High Viscosity White Base Oil", "Cosmetic Grade Base Oil"
+  ],
+  "Yellow Base Oil": [
+    "Base oil SN70", "Base oil SN100", "Base Oil SN150", "Base oil SN250", "Base oil SN500",
+    "Base oil SN700", "Industrial Grade Yellow Base Oil", "Lubricating Grade Yellow Base Oil",
+    "Low Pour Yellow Base Oil", "Synthetic Yellow Base oil"
+  ],
+  "Light Diesel Oil (LDO)": [
+    "Light Diesel Oil", "Light Fuel Oil", "Eco Blend LDO", "Low Sulphur LDO", "Marine Grade LDO",
+    "Industrial Grade LDO", "Low Viscocity Oil", "Light Density Oil", "Boiler LDO", "Hotmix LDO"
+  ],
+  "Furnace Oil / Fuel Oil": [
+    "Fuel oil", "Furnace Oil", "Hight Viscocity Fuel Oil", "Marine Fuel Oil", "Heavy Fuel oil",
+    "Resudue Fuel oil", "Industrial Fuel Oil", "Black Fuel oil", "Low Sulphur Fuel oil",
+    "Low Sulphur Furnace oil"
+  ],
+  "Bio Fuel": [
+    "Biodiesel", "Biofuel", "Biodiesel B100", "Biodiesel b20", "Biodiesel Methyl Easter",
+    "Bioethanol E85", "Bioethanol E100", "Used Cooking Oil Biofuel", "Jatropha-Based Biofuel"
+  ],
+  "Solvent": [
+    "Industrial Solvent", "Aromatic Solvent", "Aliphatic Solvent", "High Flash Solvent",
+    "Paint Thinner Solvent", "Rubber Solvent", "Adhesive Solvent", "Pharmaceutical Solvent",
+    "Cleaning Solvent", "Extraction Solvent"
+  ],
+  "Briquette": [
+    "Biomass Briquette", "Sawdust Briquette", "Coconut Shell Briquette", "Agro Waste Briquette",
+    "Charcoal Briquette", "Rice Husk Briquette", "Coffee Husk Briquette", "Peat Briquette",
+    "High-Density Briquette", "Low-Moisture Briquette"
+  ],
+  "CNSL Resin": [
+    "Friction Grade CNSL Resin", "Coating Grade CNSL Resin", "Adhesive Grade CNSL Resin",
+    "Modified CNSL Resin", "Phenolic CNSL Resin", "Epoxy Modified CNSL Resin",
+    "Polyurethane CNSL Resin", "High-Viscosity CNSL Resin", "Oil-Resistant CNSL Resin",
+    "Insulation Grade CNSL Resin"
+  ],
+  "Lamp Oil": [
+    "Clear Lamp Oil", "Odorless Lamp Oil", "Colored Lamp Oil", "Pooja Oil", "Deep oil",
+    "Til Oil", "Indoor Lamp Oil", "Scented Lamp Oil", "Long-Burning Lamp Oil",
+    "Premium Grade Lamp Oil"
+  ],
+  "Hydrocarbon": [
+    "Light Hydrocarbon", "Heavy Hydrocarbon", "Aromatic Hydrocarbon", "Mix Hdrocarbon oil",
+    "10 PPM", "Industrial oil", "Processing oil", "Hydrocarbon oil", "Industrial Hydrocarbon",
+    "Solvent-Grade Hydrocarbon"
+  ]
+};
 
 // Product list
 const products = [
@@ -30,33 +88,51 @@ const products = [
 ];
 
 export default function Product() {
+  const [selectedProduct, setSelectedProduct] = useState(null);
+  const [selectedSubproduct, setSelectedSubproduct] = useState('');
+  const [showModal, setShowModal] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+
+  const handleEnquiryClick = (product) => {
+    setSelectedProduct(product);
+    setSelectedSubproduct('');
+    setShowModal(true);
+  };
+
+  const handleClose = () => {
+    setShowModal(false);
+    setSelectedProduct(null);
+    setSelectedSubproduct('');
+  };
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
       <h2 className="text-2xl font-bold text-center mb-10">
         Our <span className="text-red-700">Products</span>
       </h2>
+
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
         {products.map((product, idx) => (
           <div
             key={idx}
             className="bg-white shadow-md p-5 rounded-lg text-center hover:shadow-lg transition-shadow duration-300"
           >
-              <Link
-                to={product.path}
-              >   
+            <Link to={product.path}>
               <div className="w-[300px] h-[280px] mx-auto flex items-center justify-center">
-  <img
-    src={product.image}
-    alt={product.name}
-    loading="lazy"
-    className="object-contain w-full h-full"
-  />
-</div>
-
-</Link> 
+                <img
+                  src={product.image}
+                  alt={product.name}
+                  loading="lazy"
+                  className="object-contain w-full h-full"
+                />
+              </div>
+            </Link>
             <h3 className="text-md font-semibold mt-4">{product.name}</h3>
             <div className="mt-4 flex justify-center gap-4">
-              <button className="bg-red-700 text-white px-4 py-1 text-sm rounded-full hover:bg-red-800">
+              <button
+                onClick={() => handleEnquiryClick(product)}
+                className="bg-red-700 text-white px-4 py-1 text-sm rounded-full hover:bg-red-800"
+              >
                 Enquiry Now
               </button>
               <Link
@@ -69,6 +145,107 @@ export default function Product() {
           </div>
         ))}
       </div>
+
+      {/* Enquiry Modal */}
+      {showModal && selectedProduct && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
+          <div className="bg-white rounded-xl p-6 w-[90%] max-w-xl relative">
+            <button
+              onClick={handleClose}
+              className="absolute top-2 right-3 text-xl font-bold"
+            >
+              ×
+            </button>
+
+            <h2 className="text-2xl font-semibold text-red-800 mb-4 text-center">
+              Enquiry Form
+            </h2>
+
+            <div className="flex flex-col sm:flex-row gap-6 items-center mb-4">
+              <img
+                src={selectedProduct.image}
+                alt={selectedProduct.name}
+                className="w-40 h-40 object-contain rounded-lg"
+              />
+              <div className="w-full">
+                <p className="font-semibold text-center sm:text-left mb-2">
+                  {selectedProduct.name}
+                </p>
+
+                {submitted ? (
+                  <div className="text-center py-10">
+                    <h3 className="text-2xl text-green-700 font-bold mb-4">✅ Thank You!</h3>
+                    <p className="text-gray-700">Your enquiry has been submitted successfully.</p>
+                  </div>
+                ) : (
+                  <form
+                    onSubmit={(e) => {
+                      e.preventDefault();
+                      setSubmitted(true);
+                      setTimeout(() => {
+                        setSubmitted(false);
+                        handleClose();
+                      }, 2000);
+                    }}
+                    className="space-y-3"
+                  >
+                    <div className="flex gap-2">
+                      <select
+                        disabled
+                        value={selectedProduct.name}
+                        className="border p-2 w-1/2 rounded bg-gray-100"
+                      >
+                        <option>{selectedProduct.name}</option>
+                      </select>
+
+                      <select
+                        required
+                        value={selectedSubproduct}
+                        onChange={(e) => setSelectedSubproduct(e.target.value)}
+                        className="border p-2 w-1/2 rounded"
+                      >
+                        <option value="">Select Subproduct</option>
+                        {subproductOptions[selectedProduct.name]?.map((sub, idx) => (
+                          <option key={idx} value={sub}>{sub}</option>
+                        ))}
+                      </select>
+                    </div>
+
+                    <div className="flex gap-2">
+                      <input
+                        type="number"
+                        placeholder="Quantity"
+                        className="border p-2 w-1/2 rounded"
+                        required
+                      />
+                      <input
+                        type="text"
+                        placeholder="Measurement Unit"
+                        className="border p-2 w-1/2 rounded"
+                        required
+                      />
+                    </div>
+
+                    <input
+                      type="tel"
+                      placeholder="Mobile No."
+                      className="border p-2 w-full rounded"
+                      required
+                    />
+
+                    <button
+                      type="submit"
+                      className="bg-red-800 text-white py-2 px-4 rounded hover:bg-red-700 w-full"
+                    >
+                      Submit Enquiry
+                    </button>
+                  </form>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
