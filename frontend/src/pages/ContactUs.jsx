@@ -1,59 +1,57 @@
-// components/ContactSection.jsx
-import React from 'react';
-import bgPlant from '../assets/company.png'; // swap for your real photo
+import React, { useState } from 'react';
+import bgPlant from '../assets/company.png';
 
 export default function ContactSection() {
+  const [submitted, setSubmitted] = useState(false);
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setSubmitted(true);
+
+    // Auto-hide thank you message after 2 seconds
+    setTimeout(() => {
+      setSubmitted(false);
+      e.target.reset(); // clear form
+    }, 2000);
+  };
+
   return (
     <section className="w-full">
-      {/* top title */}
       <h2 className="text-center text-3xl font-extrabold py-6">
         Contact <span className="text-red-600">US</span>
       </h2>
 
-      {/* two-column wrapper */}
       <div className="grid md:grid-cols-2">
-        {/* LEFT : hero image + overlay text */}
+        {/* LEFT : background + overlay */}
         <div className="relative">
           <img
             src={bgPlant}
             alt="Refinery plant"
             className="h-full w-full object-cover md:min-h-[550px]"
           />
-          {/* dark overlay */}
           <div className="absolute inset-0 bg-black/60" />
-
-          {/* copy on top */}
           <div className="absolute inset-0 flex flex-col justify-center px-8 py-12 text-white">
             <h3 className="text-3xl font-bold mb-4">Get In Touch</h3>
             <p className="leading-relaxed text-sm sm:text-base max-w-md">
               Arabo Impex Pvt. Ltd., established in 2012 and based in Navi Mumbai,
               is a leading manufacturer and supplier of fuel oils, including
               biodiesel, light diesel oil, and various industrial-grade
-              petroleum products. Their product range encompasses base oils,
-              hydrocarbon oils, mineral turpentine oil, and other specialized
-              fuels designed for industrial, automotive, and construction
-              applications. The company is committed to delivering high-quality,
+              petroleum products. The company is committed to delivering high-quality,
               cost-effective energy solutions that meet the diverse needs of its
               clients across India.
             </p>
           </div>
         </div>
 
-        {/* RIGHT : contact form */}
+        {/* RIGHT : Contact Form */}
         <div className="bg-black text-white flex items-center">
           <form
             className="w-full max-w-md mx-auto p-8"
-            onSubmit={(e) => {
-              e.preventDefault();
-              // TODO: hook to backend / email service
-            }}
+            onSubmit={handleSubmit}
           >
-            <h3 className="text-2xl font-semibold mb-2">
-              We’d love to hear from you!
-            </h3>
+            <h3 className="text-2xl font-semibold mb-2">We’d love to hear from you!</h3>
             <p className="mb-6 text-lg">Let’s get in touch</p>
 
-            {/* full name */}
             <label className="block text-sm mb-1">Full Name</label>
             <input
               type="text"
@@ -62,7 +60,6 @@ export default function ContactSection() {
               required
             />
 
-            {/* email */}
             <label className="block text-sm mb-1">Email</label>
             <input
               type="email"
@@ -71,7 +68,6 @@ export default function ContactSection() {
               required
             />
 
-            {/* phone */}
             <label className="block text-sm mb-1">Phone Number</label>
             <input
               type="tel"
@@ -79,7 +75,6 @@ export default function ContactSection() {
               className="w-full mb-4 px-4 py-2 rounded-md text-black"
             />
 
-            {/* message */}
             <label className="block text-sm mb-1">Leave Your Message</label>
             <textarea
               rows="5"
@@ -90,17 +85,23 @@ export default function ContactSection() {
 
             <button
               type="submit"
-              className="
-                bg-red-700 hover:bg-red-800
-                w-full py-3 rounded-md font-semibold
-                transition-colors
-              "
+              className="bg-red-700 hover:bg-red-800 w-full py-3 rounded-md font-semibold transition-colors"
             >
               Send Message
             </button>
           </form>
         </div>
       </div>
+
+      {/* Thank You Popup */}
+      {submitted && (
+        <div className="fixed inset-0 bg-black/40 flex items-center justify-center z-50">
+          <div className="bg-white rounded-xl px-8 py-6 text-center max-w-sm shadow-lg">
+            <h3 className="text-xl font-bold text-green-700 mb-2">✅ Thank You!</h3>
+            <p className="text-gray-700">Your message has been sent successfully.</p>
+          </div>
+        </div>
+      )}
     </section>
   );
 }
