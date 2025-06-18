@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { FaChevronDown, FaPhoneAlt } from 'react-icons/fa'
-import AraboLogo from '../assets/AraboLogo.png';
+import FuelOilLogo from '../assets/FuelOilLogo.png';
 import { HiMenu, HiX } from 'react-icons/hi';
 import { Link } from 'react-router-dom';
 
@@ -54,12 +54,14 @@ useEffect(() => {
   return (
     <nav className="top-0 sticky bg-white shadow-md overflow-visible z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16 items-center">
-          <div className="flex-shrink-0 flex items-center gap-2 text-xl font-bold text-[#333333]">
-            <Link to="/">
-              <img src={AraboLogo} alt="Arabo Oil Logo" className="h-12 w-10 inset" />
-            </Link>
-          </div>
+        <div className="flex justify-between h-20 items-center">
+       <div className="flex-shrink-0 flex flex-col items-center text-center">
+  <Link to="/">
+    <img src={FuelOilLogo} alt="Fuel Oil Logo" className="h-12 w-12" />
+    <span className="text-md font-bold text-black-800">FuelOil</span>
+  </Link>
+</div>
+
 
           {/* Desktop Menu */}
           <div className="hidden md:flex flex-1 justify-center space-x-8">

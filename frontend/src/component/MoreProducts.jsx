@@ -44,42 +44,34 @@ function toSlug(name) {
 }
 
 export default function MoreProducts() {
-  const rows = [];
-  for (let i = 0; i < allProducts.length; i += 5) {
-    rows.push(allProducts.slice(i, i + 5));
-  }
-
   return (
     <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-10">
       <h2 className="text-center text-3xl font-bold mb-10">
         More <span className="text-red-700">Products</span>
       </h2>
 
-      {rows.map((row, rowIndex) => (
-        <motion.div
-          key={rowIndex}
-          className={`grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mb-6 ${rowIndex % 2 === 1 ? 'flex-row-reverse' : ''}`}
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true, amount: 0.2 }}
-        >
-          {row.map((item, index) => (
-            <motion.div
-              key={index}
-              className="aspect-square w-full rounded-xl overflow-hidden shadow-md border border-gray-200"
-              variants={imageVariants}
-            >
-              <Link to={`/product/${item.product}/${toSlug(item.name)}`}>
-                <img
-                  src={item.image}
-                  alt={item.name}
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-200"
-                />
-              </Link>
-            </motion.div>
-          ))}
-        </motion.div>
-      ))}
+      <motion.div
+        className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.2 }}
+      >
+        {allProducts.map((item, index) => (
+          <motion.div
+            key={index}
+            className="aspect-square w-full rounded-xl overflow-hidden shadow-md border border-gray-200"
+            variants={imageVariants}
+          >
+            <Link to={`/product/${item.product}/${toSlug(item.name)}`}>
+              <img
+                src={item.image}
+                alt={item.name}
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-200"
+              />
+            </Link>
+          </motion.div>
+        ))}
+      </motion.div>
     </div>
   );
 }

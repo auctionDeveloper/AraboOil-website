@@ -1,16 +1,21 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import MTO from '../assets/mto.png';
-import YellowBaseOil from '../assets/baseoil.png';
-import WhiteBaseOil from '../assets/whitebaseoil.png';
-import LDO from '../assets/ldo.png';
-import FuelOil from '../assets/fueloil.png';
-import BioFuel from '../assets/biofuel.png';
-import Solvent from '../assets/solvent.png';
-import Briquette from '../assets/beriqutte.png';
-import CNSLResin from '../assets/cnslresin.png';
-import LampOil from '../assets/lampoil.png';
-import Hydrocarbon from '../assets/hydrocarbon.png';
+
+
+export default function OurProducts() {
+  const [showModal, setShowModal] = useState(false);
+  const [selectedProduct, setSelectedProduct] = useState(null);
+  const [submitted, setSubmitted] = useState(false);
+const MTO="https://res.cloudinary.com/daqlatcsr/image/upload/v1750230094/mto_i8jms7.png";
+const  YellowBaseOil="https://res.cloudinary.com/daqlatcsr/image/upload/v1750230210/baseoil_rj2aai.png";
+const WhiteBaseOil="https://res.cloudinary.com/daqlatcsr/image/upload/v1750230301/whitebaseoil_k9wsb5.png";
+const  LDO="https://res.cloudinary.com/daqlatcsr/image/upload/v1750230332/ldo_znh672.png";
+const FuelOil="https://res.cloudinary.com/daqlatcsr/image/upload/v1750230376/fueloil_wrc1xn.png";
+const BioFuel="https://res.cloudinary.com/daqlatcsr/image/upload/v1750230631/biofuel_iwnlrs.png";
+const Solvent="https://res.cloudinary.com/daqlatcsr/image/upload/v1750231006/solvent_ehl5g2.png";
+const CNSLResin="https://res.cloudinary.com/daqlatcsr/image/upload/v1750231111/cnslresin_jdgadh.png";
+const LampOil="https://res.cloudinary.com/daqlatcsr/image/upload/v1750231068/lampoil_kgdpcl.png";
+const Hydrocarbon="https://res.cloudinary.com/daqlatcsr/image/upload/v1750231153/hydrocarbon_uzs4w0.png";
 
 const PRODUCTS = [
   { title: 'Biodiesel Oil', slug: '/product/biofuel/biodiesel', img: BioFuel, subproduct: 'Biodiesel' },
@@ -24,11 +29,6 @@ const PRODUCTS = [
   { title: 'Clear Lamp Oil', slug: '/product/lamp-oil/clear-lamp-oil', img: LampOil, subproduct: 'Clear Lamp Oil' },
   { title: 'Phenolic CNSL Resin', slug: '/product/cnsl-resin/phenolic-cnsl-resin', img: CNSLResin, subproduct: 'Phenolic CNSL Resin' },
 ];
-
-export default function OurProducts() {
-  const [showModal, setShowModal] = useState(false);
-  const [selectedProduct, setSelectedProduct] = useState(null);
-  const [submitted, setSubmitted] = useState(false);
 
   const handleEnquiry = (product) => {
     setSelectedProduct(product);
@@ -50,33 +50,46 @@ export default function OurProducts() {
       <div className="p-2 max-w-6xl mx-auto">
         <div className="grid gap-3 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5">
           {PRODUCTS.map((p, i) => (
-            <div
-              key={p.slug}
-              className="group relative flex flex-col items-center text-center border overflow-hidden"
-            >
-              <Link to={p.slug} className="w-full">
-                <img src={p.img} alt={p.title} className="w-full h-36 object-cover sm:h-40 md:h-44" />
-              </Link>
+          <div
+  key={p.slug}
+  className="group relative flex flex-col items-center text-center border overflow-hidden"
+>
+  {/* Image with Enquiry onClick */}
+  <div
+    onClick={() => handleEnquiry(p)}
+    className="relative w-full cursor-pointer"
+  >
+    <img
+      src={p.img}
+      alt={p.title}
+      className="w-full h-36 object-cover sm:h-40 md:h-44"
+    />
 
-              <div className="py-3">
-                <h3 className="text-[13px] font-semibold leading-tight">{p.title}</h3>
-                <span className="mt-1 inline-block text-[11px] text-red-600 group-hover:underline">
-                  View More →
-                </span>
-              </div>
+    {/* Overlay only on image */}
+    <div className="absolute top-0 left-0 right-0 h-full bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition flex items-center justify-center pointer-events-none">
+      <button
+        onClick={(e) => {
+          e.stopPropagation(); // prevent image click
+          handleEnquiry(p);
+        }}
+        className="text-xs bg-white text-red-800 font-semibold px-4 py-1 rounded shadow-md pointer-events-auto"
+      >
+        Enquiry
+      </button>
+    </div>
+  </div>
 
-              {/* Hover overlay */}
-              <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition flex items-center justify-center p-3">
-                <button
-                  onClick={() => handleEnquiry(p)}
-                  className="text-xs bg-white text-red-800 font-semibold px-4 py-1 rounded shadow-md"
-                >
-                  Enquiry
-                </button>
-              </div>
+  {/* Title & View More */}
+  <div className="py-3">
+    <h3 className="text-[13px] font-semibold leading-tight">{p.title}</h3>
+    <Link to={p.slug}>
+      <span className="mt-1 inline-block text-[11px] text-red-600 group-hover:underline">
+        View More →
+      </span>
+    </Link>
+  </div>
+</div>
 
-              {i === 4 && <span className="col-span-full h-[1px] bg-transparent"></span>}
-            </div>
           ))}
         </div>
       </div>

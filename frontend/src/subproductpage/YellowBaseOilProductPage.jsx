@@ -44,7 +44,7 @@ export default function YellowBaseOilProductPage({ data }) {
     <>
       <Helmet>
         
-        <title>{data.title} | Arabo Oil</title>
+       <title>{data.title} | FuelOil</title>
         <meta name="description" content={metaDesc} />
         <meta name="keywords" content={`${data.productname}, ${data.city}, Yellow Base Oil, Arabo Oil`} />
         <meta property="og:title" content={data.title} />

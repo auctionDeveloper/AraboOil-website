@@ -42,7 +42,7 @@ export default function MtoProductPage({ data }) {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 md:px-8 py-10">
       <Helmet>
-        <title>{data.title} | Arabo Oil</title>
+        <title>{data.title} | FuelOil</title>
         <meta name="description" content={metaDesc} />
         <meta name="keywords" content={`${data.productname}, ${data.city}, MTO supplier, Mineral Turpentine Oil, Arabo Oil`} />
         <meta property="og:title" content={data.title} />
