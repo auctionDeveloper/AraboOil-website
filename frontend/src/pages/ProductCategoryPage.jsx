@@ -65,6 +65,7 @@ export default function ProductCategoryPage({ data, categorySlug }) {
 
   if (!data) return <div>Data not found</div>;
   if (loading) return <div className="p-6">Loading objectives...</div>;
+  
 
   return (
     <>

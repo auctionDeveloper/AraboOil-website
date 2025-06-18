@@ -65,25 +65,26 @@ function CategoryPageLoader() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
 
-  const slugToProductKey = (slug) => {
-    const map = {
-      'mto': 'MTO',
-      'ldo': 'LDO',
-      'white-base-oil': 'White Base Oil',
-      'yellow-base-oil': 'Yellow Base Oil',
-      'fuel-oil': 'Fuel Oil',
-      'fueloil': 'Fuel Oil',
-      'biofuel': 'Bio Fuel',
-      'solvent': 'Solvent',
-      'briquette': 'Briquette',
-      'lamp-oil': 'Lamp Oil',
-      'lampoil': 'Lamp Oil',
-      'cnsl-resin': 'CNSL Resin',
-      'cnslresin': 'CNSL Resin',
-      'hydrocarbon': 'Hydrocarbon',
-    };
-    return map[slug] || slug;
+ const slugToProductKey = (slug) => {
+  const map = {
+    'mto': 'MTO',
+    'ldo': 'LDO',
+    'white-base-oil': 'White Base Oil',
+    'yellow-base-oil': 'Yellow Base Oil',
+    'fuel-oil': 'Fuel Oil',
+    'fueloil': 'Fuel Oil',
+    'biofuel': 'Biofuel', // 🔥 fix was needed here
+    'solvent': 'Solvent',
+    'briquette': 'Briquette',
+    'lamp-oil': 'Lamp Oil',
+    'lampoil': 'Lamp Oil',
+    'cnsl-resin': 'CNSL Resin',
+    'cnslresin': 'CNSL Resin',
+    'hydrocarbon': 'Hydrocarbon',
   };
+  return map[slug] || slug;
+};
+
 
   useEffect(() => {
     async function fetchCategoryData() {

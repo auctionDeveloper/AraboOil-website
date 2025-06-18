@@ -40,7 +40,7 @@ const subproductOptions = {
     "Resudue Fuel oil", "Industrial Fuel Oil", "Black Fuel oil", "Low Sulphur Fuel oil",
     "Low Sulphur Furnace oil"
   ],
-  "Bio Fuel": [
+  "BioFuel": [
     "Biodiesel", "Biofuel", "Biodiesel B100", "Biodiesel b20", "Biodiesel Methyl Easter",
     "Bioethanol E85", "Bioethanol E100", "Used Cooking Oil Biofuel", "Jatropha-Based Biofuel"
   ],
@@ -79,7 +79,7 @@ const products = [
   { name: "White Base Oil", image: WhiteBaseOil, path: "/product/white-base-oil" },
   { name: "Light Diesel Oil (LDO)", image: LDO, path: "/product/ldo" },
   { name: "Furnace Oil / Fuel Oil", image: FuelOil, path: "/product/fuel-oil" },
-  { name: "Bio Fuel", image: BioFuel, path: "/product/biofuel" },
+ { name: "Biofuel", image: BioFuel, path: "/product/biofuel" },
   { name: "Solvent", image: Solvent, path: "/product/solvent" },
   { name: "Briquette", image: Briquette, path: "/product/briquette" },
   { name: "CNSL Resin", image: CNSLResin, path: "/product/cnsl-resin" },
